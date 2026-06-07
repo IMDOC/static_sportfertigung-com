@@ -1,0 +1,101 @@
+{
+  "company": {
+    "logo": "https://img.berunactivewear.com/assets/images/logo.svg",
+    "name": "Sport Fertigung",
+    "description": "Auftragsfertiger für maßgeschneiderte Sport- und Activewear: OEM/ODM-Produktion für globale Marken, Distributoren und Handelsmarken-Unternehmen. MOQ, Muster, QC- und Konformitätsunterlagen werden beim RFQ geteilt.",
+    "socialLinks": [
+      {
+        "icon": "linkedin",
+        "url": "https://www.linkedin.com/company/sport-fertigung",
+        "label": "LinkedIn"
+      }
+    ]
+  },
+  "columns": [
+    {
+      "title": "Produkte",
+      "links": [
+        {
+          "text": "Training & Performance",
+          "url": "/produkte/training-performance"
+        },
+        {
+          "text": "Athleisure",
+          "url": "/produkte/athleisure"
+        },
+        {
+          "text": "Teams & Vereine",
+          "url": "/produkte/teams-vereine"
+        },
+        {
+          "text": "Outdoor & Running",
+          "url": "/produkte/outdoor-running"
+        },
+        {
+          "text": "Zubehör",
+          "url": "/produkte/zubehoer"
+        }
+      ]
+    },
+    {
+      "title": "Leistungen",
+      "links": [
+        {
+          "text": "OEM (Konfektion)",
+          "url": "/leistungen/oem-fertigung"
+        },
+        {
+          "text": "ODM",
+          "url": "/leistungen/odm-fertigung"
+        },
+        {
+          "text": "Handelsmarke",
+          "url": "/leistungen/handelsmarke"
+        },
+        {
+          "text": "Musterfertigung",
+          "url": "/leistungen/musterfertigung"
+        },
+        {
+          "text": "Techpack & Schnitt",
+          "url": "/leistungen/techpack-schnitt"
+        }
+      ]
+    },
+    {
+      "title": "Unternehmen",
+      "links": [
+        {
+          "text": "Über uns",
+          "url": "/ueber-uns"
+        },
+        {
+          "text": "Häufige Fragen",
+          "url": "/haeufige-fragen"
+        },
+        {
+          "text": "Kontakt",
+          "url": "/kontakt"
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "title": "Kontakt",
+    "email": "sales@sportfertigung.com",
+    "phone": "+86-159-0277-8636",
+    "address": "Guangzhou, China",
+    "hours": "Mo-Fr 9:00-18:00 (GMT+8)"
+  },
+  "copyright": {
+    "year": 2026,
+    "company": "Sport Fertigung",
+    "text": "Alle Rechte vorbehalten. 8 Jahre Fertigung seit 2017.",
+    "links": [
+      {
+        "text": "Datenschutzerklärung",
+        "url": "/datenschutz"
+      }
+    ]
+  }
+}

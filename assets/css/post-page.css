@@ -1,0 +1,96 @@
+/**
+ * post-page.css — shared styles for blog post pages
+ * Used by: all HTML files with <meta name="post_article" content="true">
+ * Do NOT inline these in each page — they belong here.
+ *
+ * What stays inline in the HTML (per post-optimizer contract):
+ *   - .article-content img { ... }   (Step 11 check #8 literally greps HTML)
+ *   - .toc-nav / .toc-list ... (Step 11 checks #14 literally grep HTML)
+ *   - .blog-hero background-image url(...)  (per-article)
+ *
+ * Placeholders filled at install time by /init-blog-framework:
+ *   #1F2937        — primary brand color (hex), e.g. "#1F2937"
+ *   #374151   — lighter variant for gradient stop, e.g. "#374151"
+ *   #DC2626       — CTA button color (hex), e.g. "#DC2626"
+ *   #B91C1C — accent button hover, e.g. "#B91C1C"
+ */
+
+/* Breadcrumb + author/date strip (post-optimizer breadcrumb Template B) */
+.article-meta-wrap {
+    padding: 1.25rem 0 0.5rem;
+}
+.article-meta .breadcrumb {
+    background: transparent;
+}
+.article-meta a { text-decoration: none; }
+.article-meta a:hover { color: #1F2937 !important; }
+
+/* Sidebar CTA card */
+.sidebar-cta {
+    background: linear-gradient(135deg, #1F2937 0%, #374151 100%);
+    color: #fff;
+    border-radius: 8px;
+    padding: 1.5rem 1.25rem;
+    text-align: center;
+}
+.sidebar-cta h4 {
+    color: #fff;
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin: 0 0 0.5rem;
+}
+.sidebar-cta p {
+    color: rgba(255, 255, 255, 0.88);
+    font-size: 0.92rem;
+    margin: 0 0 1rem;
+    line-height: 1.55;
+}
+.sidebar-cta .btn-primary {
+    background: #DC2626;
+    border-color: #DC2626;
+    color: #1F2937;
+    font-weight: 700;
+}
+.sidebar-cta .btn-primary:hover {
+    background: #B91C1C;
+    border-color: #B91C1C;
+    color: #1F2937;
+}
+
+/* YouTube / Vimeo embed — responsive 16:9 wrapper */
+.video-embed {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    border-radius: 8px;
+    margin: 1.75rem 0;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+}
+.video-embed iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+/* Author card at article end */
+.author-card {
+    background: #F5F7FA;
+    border-left: 4px solid #DC2626;
+    padding: 1.25rem 1.5rem;
+    border-radius: 0 8px 8px 0;
+    margin: 2rem 0 0;
+}
+.author-card-name {
+    font-weight: 700;
+    color: #1F2937;
+    margin: 0;
+}
+.author-card-meta {
+    font-size: 0.9rem;
+    color: #666;
+    margin: 0.25rem 0 0;
+}

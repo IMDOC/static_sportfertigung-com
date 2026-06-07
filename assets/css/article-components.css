@@ -1,0 +1,240 @@
+/**
+ * Article Components — 文章正文内容元素
+ * berunactivewear.com
+ */
+
+/* ========== Headings ========== */
+.article-content h2 {
+    font-size: 1.625rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    scroll-margin-top: 110px;
+    line-height: 1.3;
+}
+
+.article-content h3 {
+    font-size: 1.3125rem;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-top: 2rem;
+    margin-bottom: 0.875rem;
+    scroll-margin-top: 110px;
+    line-height: 1.35;
+}
+
+.article-content h4 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-top: 1.75rem;
+    margin-bottom: 0.75rem;
+    scroll-margin-top: 110px;
+    line-height: 1.4;
+}
+
+/* ========== Paragraphs & Lists ========== */
+.article-content p {
+    margin-bottom: 1.25rem;
+    color: #333333;
+}
+
+.article-content ul,
+.article-content ol {
+    margin-bottom: 1.25rem;
+    padding-left: 1.5rem;
+    color: #333333;
+}
+
+.article-content li + li {
+    margin-top: 0.5rem;
+}
+
+.article-content li {
+    line-height: 1.7;
+}
+
+/* ========== Tables ========== */
+.article-content table {
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 1.5rem 0;
+    font-size: 0.9375rem;
+    border: 1px solid #e0e0e0;
+}
+
+.article-content thead th {
+    background-color: #1F2937;
+    color: #fff;
+    font-weight: 600;
+    padding: 12px 16px;
+    text-align: left;
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+}
+
+.article-content tbody td {
+    padding: 11px 16px;
+    border-bottom: 1px solid #e0e0e0;
+    vertical-align: top;
+}
+
+.article-content tbody tr:nth-child(even) {
+    background-color: #f8f9fa;
+}
+
+.article-content tbody tr:hover {
+    background-color: #FEF2F2;
+}
+
+/* ========== Blockquote ========== */
+.article-content blockquote {
+    border-left: 4px solid #DC2626;
+    background: #f8f9fa;
+    padding: 1.25rem 1.5rem;
+    margin: 1.5rem 0;
+    border-radius: 0 8px 8px 0;
+    font-style: italic;
+    color: #444;
+}
+
+.article-content blockquote p:last-child {
+    margin-bottom: 0;
+}
+
+/* ========== Code ========== */
+.article-content code {
+    background: #f0f0f0;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.875em;
+    color: #c7254e;
+    font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+}
+
+.article-content pre {
+    background: #1e1e2e;
+    color: #cdd6f4;
+    padding: 1.25rem 1.5rem;
+    border-radius: 8px;
+    overflow-x: auto;
+    margin: 1.5rem 0;
+    font-size: 0.875rem;
+    line-height: 1.6;
+}
+
+.article-content pre code {
+    background: none;
+    padding: 0;
+    color: inherit;
+    font-size: inherit;
+}
+
+/* ========== Horizontal Rule ========== */
+.article-content hr {
+    border: none;
+    border-top: 1px solid #e0e0e0;
+    margin: 2rem 0;
+}
+
+/* ========== CTA Banner ========== */
+.cta-banner {
+    background: linear-gradient(135deg, #DC2626 0%, #1F2937 100%);
+    border-radius: 12px;
+    padding: 2.5rem 2rem;
+    text-align: center;
+    margin: 2.5rem 0;
+    color: #fff;
+}
+
+.cta-banner-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+    color: #fff;
+}
+
+.cta-banner-body {
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+    color: rgba(255,255,255,0.9);
+    max-width: 560px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cta-banner-button {
+    display: inline-block;
+    padding: 12px 32px;
+    background: #fff;
+    color: #1F2937;
+    font-weight: 600;
+    font-size: 1rem;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cta-banner-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+    color: #1F2937;
+    text-decoration: none;
+}
+
+/* CTA banner sits inside .article-content, whose `.article-content p {color:#333}`
+   (specificity 0,1,1) otherwise darkens the CTA text into the dark gradient (invisible).
+   Force light text with higher specificity (.article-content .cta-banner ... = 0,2,1).
+   Covers both the bare <h2>/<p>/a.cta-button rendered by render_article and the
+   .cta-banner-title/-body/-button classes. */
+.article-content .cta-banner h2,
+.article-content .cta-banner .cta-banner-title {
+    color: #ffffff;
+    border: 0;
+    margin: 0 0 0.75rem;
+}
+.article-content .cta-banner p,
+.article-content .cta-banner .cta-banner-body {
+    color: rgba(255, 255, 255, 0.92);
+    margin: 0 auto 1.5rem;
+    max-width: 560px;
+}
+.article-content .cta-banner a.cta-button,
+.article-content .cta-banner .cta-banner-button {
+    display: inline-block;
+    padding: 12px 32px;
+    background: #ffffff;
+    color: #1F2937;
+    font-weight: 700;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.article-content .cta-banner a.cta-button:hover,
+.article-content .cta-banner .cta-banner-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+    color: #1F2937;
+}
+
+/* ========== Responsive Tables ========== */
+@media (max-width: 767.98px) {
+    .article-content table {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        white-space: nowrap;
+    }
+
+    .cta-banner {
+        padding: 2rem 1.25rem;
+    }
+
+    .cta-banner-title {
+        font-size: 1.25rem;
+    }
+}

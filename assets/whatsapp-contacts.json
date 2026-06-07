@@ -1,0 +1,12 @@
+{
+  "contacts": [
+    {
+      "name": "Anna",
+      "title": "Vertriebsleiterin",
+      "phone": "8615902778636",
+      "email": "sales@sportfertigung.com",
+      "message": "Hallo, ich interessiere mich für Ihre OEM/ODM-Fertigung von Sportbekleidung nach Maß.",
+      "default": true
+    }
+  ]
+}

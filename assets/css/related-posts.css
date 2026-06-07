@@ -1,0 +1,198 @@
+/**
+ * Related Posts — 相关文章卡片（兼容两种结构）
+ * berunactivewear.com
+ */
+
+/* ========== Section Container ========== */
+.related-posts-section {
+    padding: 3rem 0;
+    border-top: 1px solid #e0e0e0;
+    margin-top: 3rem;
+}
+
+/* ===================================================================
+   结构 A — post-optimizer 生成（CSS Grid）
+   =================================================================== */
+
+.related-posts-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.related-posts-title {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #1a1a1a;
+}
+
+.related-posts-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+}
+
+.related-posts-card {
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.related-posts-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+}
+
+.related-posts-card-media {
+    display: block;
+    overflow: hidden;
+}
+
+.related-posts-card-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+}
+
+.related-posts-card:hover .related-posts-card-image {
+    transform: scale(1.05);
+}
+
+.related-posts-card-content {
+    padding: 1.25rem;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.related-posts-card-title {
+    font-size: 1.0625rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 0.5rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.related-posts-card-link {
+    color: #1a1a1a;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.related-posts-card-link:hover {
+    color: #DC2626;
+    text-decoration: none;
+}
+
+.related-posts-card-excerpt {
+    font-size: 0.875rem;
+    color: #666666;
+    line-height: 1.6;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 0;
+}
+
+/* ===================================================================
+   结构 B — 站点原有（Bootstrap Row）
+   =================================================================== */
+
+.related-post-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.related-post-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+}
+
+.related-post-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+}
+
+.related-post-card:hover .related-post-image {
+    transform: scale(1.05);
+}
+
+.related-post-body {
+    padding: 1.25rem;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.related-post-category {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #DC2626;
+    margin-bottom: 0.5rem;
+}
+
+.related-post-title {
+    font-size: 1.0625rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 0.5rem;
+}
+
+.related-post-title a {
+    color: #1a1a1a;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.related-post-title a:hover {
+    color: #DC2626;
+}
+
+.related-post-excerpt {
+    font-size: 0.875rem;
+    color: #666666;
+    line-height: 1.6;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 0;
+}
+
+/* ========== Responsive ========== */
+@media (max-width: 991.98px) {
+    .related-posts-list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 767.98px) {
+    .related-posts-list {
+        grid-template-columns: 1fr;
+    }
+
+    .related-posts-section {
+        padding: 2rem 0;
+    }
+}

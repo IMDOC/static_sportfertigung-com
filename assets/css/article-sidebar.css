@@ -1,0 +1,33 @@
+/**
+ * Article Sidebar — 文章侧边栏
+ * berunactivewear.com
+ */
+
+.article-sidebar,
+.blog-sidebar {
+    position: sticky;
+    top: 100px;
+    max-height: calc(100vh - 120px);
+    overflow-y: auto;
+}
+
+/* Scrollbar styling */
+.article-sidebar::-webkit-scrollbar,
+.blog-sidebar::-webkit-scrollbar {
+    width: 4px;
+}
+
+.article-sidebar::-webkit-scrollbar-thumb,
+.blog-sidebar::-webkit-scrollbar-thumb {
+    background: #d0d0d0;
+    border-radius: 2px;
+}
+
+@media (max-width: 991.98px) {
+    .article-sidebar,
+    .blog-sidebar {
+        position: static;
+        max-height: none;
+        margin-top: 2rem;
+    }
+}

@@ -1,0 +1,181 @@
+/**
+ * Article Shell — 文章页面基础布局
+ * berunactivewear.com
+ */
+
+/* ========== Article Page Container ========== */
+.article-page {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* ========== Article Content Area ========== */
+.article-content {
+    max-width: 780px;
+    font-size: 1.0625rem;
+    line-height: 1.8;
+    color: #333333;
+}
+
+.article-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 1.5rem 0;
+}
+
+/* ========== Blog Hero Section ========== */
+.blog-hero {
+    position: relative;
+    min-height: 380px;
+    display: flex;
+    align-items: center;
+    padding: 100px 0 80px;
+    color: #fff;
+    overflow: hidden;
+    /* 无背景图时的渐变 fallback */
+    background: linear-gradient(135deg, rgba(30,183,230,0.95) 0%, rgba(12,82,115,0.95) 100%);
+}
+
+.blog-hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    /* background 由内联 <style> 设置（含文章图片 URL），此处不要覆盖 */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.15;
+    z-index: 0;
+}
+
+.blog-hero > * {
+    position: relative;
+    z-index: 2;
+}
+
+.blog-hero .container {
+    position: relative;
+    z-index: 2;
+}
+
+/* 面包屑 */
+.blog-hero .breadcrumb {
+    background: transparent;
+    padding: 0;
+    margin-bottom: 1.5rem;
+}
+
+.blog-hero .breadcrumb-item a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.blog-hero .breadcrumb-item a:hover {
+    color: #fff;
+}
+
+.blog-hero .breadcrumb-item.active {
+    color: rgba(255,255,255,0.6);
+}
+
+.blog-hero .breadcrumb-item + .breadcrumb-item::before {
+    color: rgba(255,255,255,0.5);
+}
+
+/* 标题 — 左对齐 */
+.blog-hero h1 {
+    color: #fff;
+    font-size: 2.5rem;
+    font-weight: 700;
+    line-height: 1.25;
+    max-width: 800px;
+    margin-bottom: 1.5rem;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+/* Lead 描述文字 */
+.blog-hero .lead {
+    font-size: 1.15rem;
+    color: rgba(255,255,255,0.9);
+    max-width: 700px;
+    line-height: 1.7;
+    margin-bottom: 2rem;
+}
+
+/* ========== Blog Meta ========== */
+.blog-meta {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    flex-wrap: wrap;
+    font-size: 0.95rem;
+    color: rgba(255,255,255,0.85);
+}
+
+.blog-meta-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.9rem;
+    color: #666;
+    margin-right: 1.25rem;
+}
+
+.blog-hero .blog-meta-item {
+    color: rgba(255,255,255,0.85);
+    margin-right: 0;
+}
+
+.blog-meta-item i {
+    font-size: 1rem;
+    opacity: 0.9;
+}
+
+/* ========== Category Badge ========== */
+.blog-category-badge {
+    display: inline-block;
+    padding: 6px 16px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #fff;
+    background: rgba(255,255,255,0.2);
+    backdrop-filter: blur(4px);
+    border-radius: 20px;
+    text-decoration: none;
+    margin-bottom: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+.blog-category-badge:hover {
+    background: rgba(255,255,255,0.35);
+    color: #fff;
+    text-decoration: none;
+}
+
+/* ========== Responsive ========== */
+@media (max-width: 991.98px) {
+    .blog-hero h1 {
+        font-size: 2.25rem;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .blog-hero {
+        min-height: 280px;
+        padding: 80px 0 60px;
+    }
+    .blog-hero h1 {
+        font-size: 1.875rem;
+    }
+    .blog-meta {
+        gap: 16px;
+    }
+    .article-page {
+        padding: 0 15px;
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "socialLinks": [
+    {
+      "icon": "linkedin",
+      "url": "https://www.linkedin.com/company/sport-fertigung",
+      "label": "LinkedIn"
+    }
+  ],
+  "message": "Sportbekleidung nach Maß OEM/ODM | 12 Produktionslinien | QC-Unterlagen beim RFQ",
+  "contacts": {
+    "phone": "+86-159-0277-8636",
+    "email": "sales@sportfertigung.com"
+  },
+  "backgroundColor": "#18181B",
+  "textColor": "#ffffff",
+  "linkColor": "#EAB308",
+  "height": 45,
+  "showOnMobile": false,
+  "closable": false,
+  "zIndex": 1001
+}

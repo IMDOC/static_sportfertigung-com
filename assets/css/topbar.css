@@ -1,0 +1,208 @@
+/**
+ * TopBar Styles
+ * 顶部信息栏样式文件
+ *
+ * CSS Variables (可在配置中自定义):
+ * --tb-bg-color: 背景颜色
+ * --tb-text-color: 文字颜色
+ * --tb-height: 高度
+ */
+
+:root {
+  --tb-bg-color: #000000;
+  --tb-text-color: #ffffff;
+  --tb-height: 45px;
+  --tb-z-index: 1001;
+}
+
+/* ========== TopBar 主容器 ========== */
+.tb-topbar {
+  width: 100%;
+  height: var(--tb-height);
+  background: var(--tb-bg-color);
+  color: var(--tb-text-color);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: var(--tb-z-index);
+  line-height: var(--tb-height);
+  font-size: 13px;
+}
+
+.tb-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+}
+
+/* ========== 左侧社交链接 ========== */
+.tb-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.tb-social-link {
+  color: var(--tb-text-color);
+  opacity: 0.8;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+}
+
+.tb-social-link:hover {
+  opacity: 1;
+  background: rgba(255, 255, 255, 0.1);
+  transform: translateY(-2px);
+}
+
+.tb-social-link svg {
+  display: block;
+}
+
+/* ========== 中间消息 ========== */
+.tb-center {
+  flex: 1;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.tb-message {
+  font-weight: 500;
+  opacity: 0.95;
+}
+
+/* ========== 右侧联系方式 ========== */
+.tb-right {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.tb-contact-item {
+  color: var(--tb-text-color);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  opacity: 0.9;
+  transition: opacity 0.2s;
+}
+
+.tb-contact-item:hover {
+  opacity: 1;
+}
+
+.tb-contact-item svg {
+  opacity: 0.8;
+}
+
+/* ========== 关闭按钮 ========== */
+.tb-close {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: var(--tb-text-color);
+  font-size: 24px;
+  cursor: pointer;
+  padding: 0;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.6;
+  transition: opacity 0.2s;
+  line-height: 1;
+}
+
+.tb-close:hover {
+  opacity: 1;
+}
+
+/* ========== 响应式设计 - 移动端 ========== */
+@media (max-width: 768px) {
+  .tb-topbar {
+    height: auto;
+    line-height: 1.4;
+    font-size: 12px;
+  }
+
+  .tb-container {
+    flex-direction: column;
+    padding: 8px 15px;
+    gap: 8px;
+  }
+
+  .tb-left,
+  .tb-right {
+    justify-content: center;
+  }
+
+  .tb-center {
+    padding: 0;
+    text-align: center;
+  }
+
+  .tb-message {
+    font-size: 12px;
+  }
+
+  .tb-contact-item span {
+    font-size: 11px;
+  }
+
+  .tb-social-link {
+    width: 24px;
+    height: 24px;
+  }
+
+  .tb-social-link svg {
+    width: 14px;
+    height: 14px;
+  }
+
+  .tb-close {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    transform: none;
+  }
+}
+
+/* ========== TopBar 显示时，调整动态菜单位置 ========== */
+/* 桌面端 */
+.dm-menu.sticky {
+  top: var(--tb-height) !important;
+}
+
+/* 移动端 - TopBar 不显示时 */
+@media (max-width: 768px) {
+  /* 如果 TopBar 在移动端隐藏，恢复菜单原始位置 */
+  .tb-topbar[style*="display: none"] ~ * .dm-nav,
+  body:not(:has(.tb-topbar)) .dm-nav {
+    top: 60px !important;
+  }
+
+  .tb-topbar[style*="display: none"] ~ * .dm-nav.open,
+  body:not(:has(.tb-topbar)) .dm-nav.open {
+    max-height: calc(100vh - 60px) !important;
+  }
+
+  .tb-topbar[style*="display: none"] ~ * .dm-menu.sticky,
+  body:not(:has(.tb-topbar)) .dm-menu.sticky {
+    top: 0 !important;
+  }
+}

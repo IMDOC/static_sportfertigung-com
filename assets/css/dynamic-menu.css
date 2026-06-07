@@ -1,0 +1,383 @@
+/**
+ * Dynamic Menu Styles
+ * 动态菜单样式文件
+ *
+ * CSS Variables (可在配置中自定义):
+ * --dm-brand-color: 品牌主色
+ * --dm-bg-color: 背景颜色
+ * --dm-text-color: 文字颜色
+ * --dm-mobile-breakpoint: 移动端断点 (默认 768px)
+ */
+
+:root {
+  --dm-brand-color: #E31837;
+  --dm-bg-color: #ffffff;
+  --dm-text-color: #333333;
+  --dm-mobile-breakpoint: 768px;
+}
+
+/* ========== 基础菜单样式 ========== */
+.dm-menu {
+  width: 100%;
+  background: var(--dm-bg-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.dm-menu.sticky {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.dm-menu.scrolled {
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
+}
+
+.dm-menu.transparent {
+  background: transparent;
+  box-shadow: none;
+}
+
+.dm-menu.transparent.scrolled {
+  background: rgba(255, 255, 255, 0.95);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
+}
+
+.dm-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 70px;
+}
+
+/* ========== Logo 样式 ========== */
+.dm-logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  color: var(--dm-text-color);
+  font-size: 24px;
+  font-weight: 700;
+  transition: opacity 0.2s;
+  flex-shrink: 0;
+  margin-right: 30px;
+}
+
+.dm-logo:hover {
+  opacity: 0.8;
+}
+
+.dm-logo img {
+  height: 40px;
+  width: auto;
+}
+
+/* ========== 导航菜单样式 ========== */
+.dm-nav {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex: 1;
+  justify-content: flex-start;
+  margin-left: 20px;
+}
+
+.dm-nav-item {
+  position: relative;
+}
+
+.dm-nav-link {
+  display: block;
+  padding: 10px 20px;
+  color: var(--dm-text-color);
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 6px;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+
+.dm-nav-link:hover {
+  background: rgba(0, 0, 0, 0.05);
+  color: var(--dm-brand-color);
+}
+
+.dm-nav-link.active {
+  background: var(--dm-brand-color);
+  color: white;
+}
+
+/* ========== 下拉菜单样式 ========== */
+.dm-dropdown {
+  position: relative;
+}
+
+.dm-dropdown-toggle::after {
+  content: '▼';
+  font-size: 10px;
+  margin-left: 6px;
+  transition: transform 0.2s;
+}
+
+.dm-dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  min-width: 280px;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: all 0.3s;
+  margin-top: 8px;
+  padding: 8px 0;
+  z-index: 100;
+}
+
+.dm-dropdown:hover .dm-dropdown-menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.dm-dropdown:hover .dm-dropdown-toggle::after {
+  transform: rotate(180deg);
+}
+
+.dm-dropdown-item {
+  display: block;
+  padding: 10px 20px;
+  color: #333;
+  text-decoration: none;
+  font-size: 15px;
+  transition: background 0.2s;
+}
+
+.dm-dropdown-item:hover {
+  background: rgba(0, 0, 0, 0.05);
+  color: var(--dm-brand-color);
+}
+
+/* ========== 移动端汉堡按钮 ========== */
+.dm-mobile-toggle {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  color: var(--dm-text-color);
+}
+
+.dm-mobile-toggle span {
+  display: block;
+  width: 25px;
+  height: 3px;
+  background: currentColor;
+  margin: 5px 0;
+  transition: all 0.3s;
+  border-radius: 2px;
+}
+
+.dm-mobile-toggle.open span:nth-child(1) {
+  transform: rotate(45deg) translate(6px, 6px);
+}
+
+.dm-mobile-toggle.open span:nth-child(2) {
+  opacity: 0;
+}
+
+.dm-mobile-toggle.open span:nth-child(3) {
+  transform: rotate(-45deg) translate(6px, -6px);
+}
+
+/* ========== 搜索框样式 ========== */
+.dm-search {
+  position: relative;
+  margin-left: 20px;
+}
+
+.dm-search-input {
+  padding: 8px 35px 8px 15px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  background: rgba(0, 0, 0, 0.03);
+  color: var(--dm-text-color);
+  font-size: 14px;
+  width: 200px;
+  transition: all 0.2s;
+}
+
+.dm-search-input:focus {
+  outline: none;
+  border-color: var(--dm-brand-color);
+  width: 250px;
+}
+
+.dm-search-icon {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--dm-text-color);
+  opacity: 0.5;
+}
+
+/* ========== CTA 按钮样式 ========== */
+.dm-cta-button {
+  display: inline-block;
+  padding: 10px 30px;
+  margin-left: 20px;
+  background: var(--dm-brand-color);
+  color: white !important;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+}
+
+.dm-cta-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(227, 24, 55, 0.4);
+  background: #c01530;
+}
+
+/* ========== 进入动画 ========== */
+.dm-menu.animate .dm-nav-item {
+  animation: fadeInUp 0.5s ease backwards;
+}
+
+.dm-menu.animate .dm-nav-item:nth-child(1) { animation-delay: 0.1s; }
+.dm-menu.animate .dm-nav-item:nth-child(2) { animation-delay: 0.15s; }
+.dm-menu.animate .dm-nav-item:nth-child(3) { animation-delay: 0.2s; }
+.dm-menu.animate .dm-nav-item:nth-child(4) { animation-delay: 0.25s; }
+.dm-menu.animate .dm-nav-item:nth-child(5) { animation-delay: 0.3s; }
+.dm-menu.animate .dm-nav-item:nth-child(6) { animation-delay: 0.35s; }
+.dm-menu.animate .dm-nav-item:nth-child(7) { animation-delay: 0.4s; }
+.dm-menu.animate .dm-nav-item:nth-child(8) { animation-delay: 0.45s; }
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ========== 响应式设计 - 移动端 ========== */
+@media (max-width: 768px) {
+  .dm-container {
+    height: 60px;
+  }
+
+  .dm-mobile-toggle {
+    display: block;
+  }
+
+  .dm-nav {
+    position: fixed;
+    top: 60px;  /* 移动端菜单高度 */
+    left: 0;
+    right: 0;
+    background: var(--dm-bg-color);
+    flex-direction: column;
+    gap: 0;
+    padding: 0;
+    box-shadow: none;
+    max-height: 0;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    justify-content: flex-start;
+    margin-left: 0;
+  }
+
+  .dm-nav.open {
+    max-height: calc(100vh - 60px);  /* 移动端菜单高度 */
+    overflow-y: auto;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  .dm-nav-item {
+    width: 100%;
+  }
+
+  .dm-nav-link {
+    width: 100%;
+    padding: 12px 16px;
+    border-radius: 8px;
+  }
+
+  .dm-dropdown-menu {
+    position: static;
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+    box-shadow: none;
+    background: rgba(0, 0, 0, 0.03);
+    margin: 8px 0;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+  }
+
+  .dm-dropdown.open .dm-dropdown-menu {
+    max-height: 500px;
+  }
+
+  .dm-dropdown-toggle::after {
+    float: right;
+  }
+
+  /* 移动端隐藏 CTA 按钮 */
+  .dm-cta-button {
+    display: none;
+  }
+
+  /* 移动端隐藏 Logo 文字 */
+  .dm-logo-text {
+    display: none;
+  }
+}
+
+/* ========== 深色主题支持 ========== */
+.dm-menu.theme-dark {
+  --dm-bg-color: #1a1a1a;
+  --dm-text-color: #ffffff;
+}
+
+.dm-menu.theme-dark .dm-nav-link:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.dm-menu.theme-dark .dm-dropdown-menu {
+  background: #2a2a2a;
+}
+
+.dm-menu.theme-dark .dm-dropdown-item {
+  color: #ffffff;
+}
+
+.dm-menu.theme-dark .dm-search-input {
+  border-color: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .dm-menu.theme-dark .dm-dropdown-menu {
+    background: rgba(0, 0, 0, 0.1);
+  }
+}

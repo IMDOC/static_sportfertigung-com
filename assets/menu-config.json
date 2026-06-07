@@ -1,0 +1,141 @@
+{
+  "logo": {
+    "text": "Sport Fertigung",
+    "image": "https://img.berunactivewear.com/assets/images/logo.svg",
+    "link": "/",
+    "showText": false
+  },
+  "menuItems": [
+    {
+      "text": "Startseite",
+      "link": "/"
+    },
+    {
+      "text": "Produkte",
+      "link": "#",
+      "children": [
+        {
+          "text": "Training & Performance",
+          "link": "/produkte/training-performance"
+        },
+        {
+          "text": "Athleisure",
+          "link": "/produkte/athleisure"
+        },
+        {
+          "text": "Teams & Vereine",
+          "link": "/produkte/teams-vereine"
+        },
+        {
+          "text": "Outdoor & Running",
+          "link": "/produkte/outdoor-running"
+        },
+        {
+          "text": "Zubehör",
+          "link": "/produkte/zubehoer"
+        },
+        {
+          "text": "Yoga-Leggings nach Maß",
+          "link": "/hersteller-yoga-leggings"
+        },
+        {
+          "text": "Sport-BHs Großhandel",
+          "link": "/sport-bhs-grosshandel"
+        },
+        {
+          "text": "Kompressionsbekleidung",
+          "link": "/kompressionsbekleidung-nach-mass"
+        },
+        {
+          "text": "Herren-Hoodies nach Maß",
+          "link": "/hersteller-herren-hoodies"
+        }
+      ]
+    },
+    {
+      "text": "Leistungen",
+      "link": "#",
+      "children": [
+        {
+          "text": "OEM (Konfektion)",
+          "link": "/leistungen/oem-fertigung"
+        },
+        {
+          "text": "ODM",
+          "link": "/leistungen/odm-fertigung"
+        },
+        {
+          "text": "Handelsmarke",
+          "link": "/leistungen/handelsmarke"
+        },
+        {
+          "text": "Musterfertigung",
+          "link": "/leistungen/musterfertigung"
+        },
+        {
+          "text": "Druck & Stickerei",
+          "link": "/leistungen/druck-stickerei"
+        },
+        {
+          "text": "Team-Personalisierung",
+          "link": "/leistungen/team-personalisierung"
+        },
+        {
+          "text": "Techpack & Schnitt",
+          "link": "/leistungen/techpack-schnitt"
+        },
+        {
+          "text": "Großhandel",
+          "link": "/leistungen/grosshandel"
+        }
+      ]
+    },
+    {
+      "text": "Branchen",
+      "link": "#",
+      "children": [
+        {
+          "text": "Hersteller Yoga-Bekleidung",
+          "link": "/hersteller-yoga-bekleidung"
+        },
+        {
+          "text": "Hersteller Fitnessbekleidung",
+          "link": "/hersteller-fitnessbekleidung"
+        },
+        {
+          "text": "Hersteller Radbekleidung",
+          "link": "/hersteller-radbekleidung"
+        },
+        {
+          "text": "Hersteller Fußballbekleidung",
+          "link": "/hersteller-fussballbekleidung"
+        },
+        {
+          "text": "Hersteller Basketballbekleidung",
+          "link": "/hersteller-basketballbekleidung"
+        },
+        {
+          "text": "Streetwear-Hersteller",
+          "link": "/streetwear-hersteller"
+        }
+      ]
+    },
+    {
+      "text": "Blog",
+      "link": "/blog"
+    },
+    {
+      "text": "Über uns",
+      "link": "/ueber-uns"
+    },
+    {
+      "text": "Kontakt",
+      "link": "/kontakt"
+    }
+  ],
+  "ctaButton": {
+    "text": "Techpack senden",
+    "link": "/kontakt",
+    "style": "primary"
+  }
+}
