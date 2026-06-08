@@ -620,10 +620,10 @@ CATEGORY_PAGE_TEMPLATE = '''<!DOCTYPE html>
     <meta name="keywords" content="{seo_keywords}">
     <link rel="canonical" href="https://www.{domain}/category/{slug}">
 
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://img.berunactivewear.com/brand/sportfertigung.com/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://img.berunactivewear.com/brand/sportfertigung.com/favicon-32x32.png">
+    <link rel="icon" type="image/x-icon" href="https://img.berunactivewear.com/brand/sportfertigung.com/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://img.berunactivewear.com/brand/sportfertigung.com/apple-icon-180x180.png">
     <link rel="manifest" href="/manifest.json">
 
     <meta property="og:type" content="website">
@@ -749,10 +749,10 @@ TAG_PAGE_TEMPLATE = '''<!DOCTYPE html>
     <meta name="keywords" content="{tag_display}, {tag_slug}">
     <link rel="canonical" href="https://www.{domain}/tag/{tag_slug}">
 
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://img.berunactivewear.com/brand/sportfertigung.com/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://img.berunactivewear.com/brand/sportfertigung.com/favicon-32x32.png">
+    <link rel="icon" type="image/x-icon" href="https://img.berunactivewear.com/brand/sportfertigung.com/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://img.berunactivewear.com/brand/sportfertigung.com/apple-icon-180x180.png">
     <link rel="manifest" href="/manifest.json">
 
     <meta property="og:type" content="website">
