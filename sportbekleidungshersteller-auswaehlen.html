@@ -47,8 +47,8 @@
 <meta content="2026-06-08T09:00:00" property="article:modified_time"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Custom Activewear Manufacturing: From Tech-Pack to Bulk" name="twitter:title"/>
-<meta content="OEM vs ODM, tech-pack prep, USD 45 sampling, 100-pc MOQ, 35–42 day bulk lead time, and AQL 2.5 quality." name="twitter:description"/>
+<meta content="Wie Sie den richtigen Sportbekleidungshersteller auswählen — Leitfaden 2026 | Sport Fertigung" name="twitter:title"/>
+<meta content="Leitfaden für Marken: Wie Sie 2026 einen Sportbekleidungshersteller auswählen. Realistische MOQ, Musterung per Tech-Pack, messbare QC (AQL 2.5, ΔE ≤ 1,5) und Konsistenz über Bestellungen hinweg." name="twitter:description"/>
 <meta content="https://img.berunactivewear.com/assets/images/og-home.jpg" name="twitter:image"/>
 <meta content="7 Min. Lesezeit" name="twitter:data1"/>
 <!-- JSON-LD: BlogPosting + BreadcrumbList -->
@@ -299,7 +299,7 @@
 <!-- Send Your Tech-Pack CTA widget -->
 <div class="sidebar-widget sidebar-cta" style="background:#18181B;border-radius:12px;padding:24px;color:#fff;">
 <h4 style="font-size:1.05rem;font-weight:700;color:#fff;margin-bottom:8px;">Tech-Pack senden</h4>
-<p style="font-size:0.85rem;color:rgba(255,255,255,0.82);margin-bottom:14px;">100-pc MOQ, USD 45 samples, 35–42 day bulk. We reply within one business day.</p>
+<p style="font-size:0.85rem;color:rgba(255,255,255,0.82);margin-bottom:14px;">MOQ 100 Stück, Muster 45 USD, Serie in 35–42 Tagen. Antwort innerhalb eines Werktags.</p>
 <a class="btn btn-primary w-100" href="/contact" style="background:#C81E1E;border-color:#C81E1E;font-weight:600;">Tech-Pack senden</a>
 </div>
 <div class="sidebar-widget sidebar-inquiry" style="background:#fff;border-radius:12px;padding:24px;box-shadow:0 2px 12px rgba(0,0,0,0.06);margin-top:16px;">
@@ -307,11 +307,11 @@
 <p style="font-size:0.85rem;color:#666;margin-bottom:14px;">Senden Sie Ihre Spezifikationen — wir antworten innerhalb von 24 Stunden mit einem werksdirekten Angebot.</p>
 <form class="inquiry-form" id="articleInquiryForm" style="display:flex;flex-direction:column;gap:10px;">
 <input autocomplete="off" name="website" style="display:none" tabindex="-1" type="text"/>
-<input class="form-control" name="name" placeholder="Tu nombre *" required="" style="padding:8px 12px;border:1px solid #dee2e6;border-radius:6px;font-size:0.9rem;" type="text"/>
-<input class="form-control" name="email" placeholder="Email *" required="" style="padding:8px 12px;border:1px solid #dee2e6;border-radius:6px;font-size:0.9rem;" type="email"/>
-<input class="form-control" name="company" placeholder="Empresa / Marca" style="padding:8px 12px;border:1px solid #dee2e6;border-radius:6px;font-size:0.9rem;" type="text"/>
+<input class="form-control" name="name" placeholder="Ihr Name *" required="" style="padding:8px 12px;border:1px solid #dee2e6;border-radius:6px;font-size:0.9rem;" type="text"/>
+<input class="form-control" name="email" placeholder="E-Mail *" required="" style="padding:8px 12px;border:1px solid #dee2e6;border-radius:6px;font-size:0.9rem;" type="email"/>
+<input class="form-control" name="company" placeholder="Firma / Marke" style="padding:8px 12px;border:1px solid #dee2e6;border-radius:6px;font-size:0.9rem;" type="text"/>
 <textarea class="form-control" name="message" placeholder="Was möchten Sie produzieren? (Stoff, MOQ, Liefertermin)" rows="3" style="padding:8px 12px;border:1px solid #dee2e6;border-radius:6px;font-size:0.9rem;resize:vertical;"></textarea>
-<button style="background:#18181B;color:#fff;border:none;border-radius:6px;padding:10px;font-weight:600;cursor:pointer;" type="submit">Solicitar presupuesto</button>
+<button style="background:#18181B;color:#fff;border:none;border-radius:6px;padding:10px;font-weight:600;cursor:pointer;" type="submit">Angebot anfordern</button>
 </form>
 <script>
   (function(){
@@ -323,7 +323,7 @@
       e.preventDefault();
       var btn = f.querySelector('button[type=submit]');
       var orig = btn.textContent;
-      btn.disabled = true; btn.textContent = 'Sending...';
+      btn.disabled = true; btn.textContent = 'Senden…';
       try {
         var r = await fetch('https://form.lianf.com/', {
           method:'POST', headers:{'Content-Type':'application/json'},
@@ -337,9 +337,9 @@
           })
         });
         var d = await r.json();
-        if (d.success) { alert('Thanks! We&#39;ll reply within 24 hours.'); f.reset(); }
-        else alert('Submission failed: ' + (d.msg || 'unknown error'));
-      } catch(err) { alert('Network error. Please try again.'); }
+        if (d.success) { alert('Danke! Wir antworten innerhalb von 24 Stunden.'); f.reset(); }
+        else alert('Übermittlung fehlgeschlagen: ' + (d.msg || 'unbekannter Fehler'));
+      } catch(err) { alert('Netzwerkfehler. Bitte erneut versuchen.'); }
       finally { btn.disabled = false; btn.textContent = orig; }
     });
   })();
