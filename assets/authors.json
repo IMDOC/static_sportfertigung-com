@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "domain": "sportfertigung.com",
+  "default_author_slug": "ryan-mitchell",
+  "picking_strategy": "default",
+  "authors": [
+    {
+      "slug": "ryan-mitchell",
+      "name": "Ryan Mitchell",
+      "title": "Leiter Produktion & Beschaffung",
+      "bio_short": "Ryan bringt über 12 Jahre OEM/ODM-Produktion von Sportbekleidung mit — Beschaffung technischer Stoffe, Zuschnitt und Konfektion sowie Tech-Pack-Entwicklung für Sportswear-Marken weltweit.",
+      "expertise_tags": ["oem-odm-fertigung","technische-stoffe","tech-pack-musterung","eigenmarke","qc-compliance"],
+      "email": "sales@sportfertigung.com",
+      "avatar_url": "https://img.berunactivewear.com/assets/images/authors/ryan-mitchell.webp",
+      "page_url": "/author/ryan-mitchell",
+      "featured": true
+    }
+  ]
+}

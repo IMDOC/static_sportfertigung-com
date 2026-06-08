@@ -1,0 +1,57 @@
+{
+  "version": "1.0",
+  "domain": "sportfertigung.com",
+  "default_category_slug": "beschaffungs-guides",
+  "categories": [
+    {
+      "slug": "herstellung",
+      "name": "Herstellung",
+      "description": "Wie Sportbekleidung gefertigt wird: Zuschnitt- und Konfektionslinien, OEM versus ODM, Eigenmarken-Produktion, MOQ und realistische Lieferzeiten für Sportswear-Marken.",
+      "icon": "bi-gear-wide-connected",
+      "featured": true,
+      "parent_topic_ids": [],
+      "parent_topic_keywords": ["herstellung","fertigung","oem","odm","zuschnitt und konfektion","eigenmarke","produktion","fabrik","serienproduktion"],
+      "parent_topic_keywords_zh": ["制造","生产","工厂","代工","贴牌"]
+    },
+    {
+      "slug": "textiltechnologie",
+      "name": "Textiltechnologie",
+      "description": "Technische Stoffe erklärt: schnelltrocknend, Vier-Wege-Stretch, recyceltes Polyester, GSM und wie die Stoffwahl Passform, Haltbarkeit und Kosten verändert.",
+      "icon": "bi-droplet-half",
+      "featured": true,
+      "parent_topic_ids": [],
+      "parent_topic_keywords": ["stoff","schnelltrocknend","vier-wege-stretch","recyceltes polyester","technischer stoff","nylon elasthan","gsm","oeko-tex"],
+      "parent_topic_keywords_zh": ["面料","速干","弹力","再生聚酯"]
+    },
+    {
+      "slug": "beschaffungs-guides",
+      "name": "Beschaffungs-Guides",
+      "description": "Praktische Leitfäden für Einkäufer: Tech-Pack erstellen, Muster anfordern, Lieferant auswählen, MOQ verhandeln und typische Beschaffungsfehler vermeiden.",
+      "icon": "bi-clipboard-check",
+      "featured": true,
+      "parent_topic_ids": [],
+      "parent_topic_keywords": ["beschaffung","sourcing","tech-pack","musterung","lieferant","moq","einkaufsratgeber","wie bestellen","mindestbestellmenge"],
+      "parent_topic_keywords_zh": ["采购","技术包","打样","供应商","起订量"]
+    },
+    {
+      "slug": "sportbekleidung-kategorien",
+      "name": "Sportbekleidung-Kategorien",
+      "description": "Analyse nach Kategorie: Yoga, Gym, Radsport, Fußball, Basketball und Streetwear — Konstruktionsdetails und was jeweils zu spezifizieren ist.",
+      "icon": "bi-grid-1x2",
+      "featured": false,
+      "parent_topic_ids": [],
+      "parent_topic_keywords": ["yoga","gym","radsport","fußball","basketball","streetwear","leggings","sport-bh","kompression","sweatshirt"],
+      "parent_topic_keywords_zh": ["瑜伽","健身","骑行","足球","篮球","潮牌"]
+    },
+    {
+      "slug": "branchentrends",
+      "name": "Branchentrends",
+      "description": "Wohin sich die Beschaffung von Sportbekleidung entwickelt: Nachhaltigkeit, Compliance und Zertifizierungen sowie Marktveränderungen, die Marken und Einkäufer betreffen.",
+      "icon": "bi-graph-up-arrow",
+      "featured": false,
+      "parent_topic_ids": [],
+      "parent_topic_keywords": ["trends","nachhaltigkeit","compliance","zertifizierung","markt","recycelt","bsci","wrap","grs"],
+      "parent_topic_keywords_zh": ["趋势","可持续","认证","环保","市场"]
+    }
+  ]
+}

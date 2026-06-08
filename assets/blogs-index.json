@@ -1,0 +1,33 @@
+{
+  "totalBlogs": 1,
+  "totalPages": 1,
+  "postsPerPage": 20,
+  "categories": [
+    {
+      "name": "Herstellung",
+      "slug": "herstellung",
+      "count": 0
+    },
+    {
+      "name": "Textiltechnologie",
+      "slug": "textiltechnologie",
+      "count": 0
+    },
+    {
+      "name": "Beschaffungs-Guides",
+      "slug": "beschaffungs-guides",
+      "count": 1
+    },
+    {
+      "name": "Sportbekleidung-Kategorien",
+      "slug": "sportbekleidung-kategorien",
+      "count": 0
+    },
+    {
+      "name": "Branchentrends",
+      "slug": "branchentrends",
+      "count": 0
+    }
+  ],
+  "latestUpdate": "2026-06-08"
+}

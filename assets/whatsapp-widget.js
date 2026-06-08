@@ -7,11 +7,11 @@
 
     contacts: [
       {
-        name: 'Ventes',
-        title: 'Équipe Commerciale',
+        name: 'Vertrieb',
+        title: 'Vertriebsteam',
         phone: '8613800007212',
         avatar: '',
-        message: 'Bonjour, je suis intéressé(e) par vos services OEM/ODM de vêtements de sport personnalisés.'
+        message: 'Hallo, ich interessiere mich für Ihre OEM/ODM-Fertigung von Sportbekleidung nach Maß.'
       }
     ],
 
@@ -19,11 +19,11 @@
 
     brandColor: '#25D366',
 
-    buttonText: 'Discutez avec nous',
+    buttonText: 'Chatten Sie mit uns',
 
-    popupTitle: 'Comment pouvons-nous vous aider ?',
+    popupTitle: 'Wie können wir helfen?',
 
-    welcomeMessage: 'Choisissez un contact ci-dessous pour démarrer la conversation',
+    welcomeMessage: 'Wählen Sie unten einen Kontakt, um das Gespräch zu starten',
 
     showOnMobile: true,
 
@@ -412,7 +412,7 @@
       <div class="wa-widget-popup" id="waWidgetPopup">
         <div class="wa-popup-header">
           <h3>${config.popupTitle}</h3>
-          <button class="wa-popup-close" id="waPopupClose" aria-label="Fermer la fenêtre">×</button>
+          <button class="wa-popup-close" id="waPopupClose" aria-label="Fenster schließen">×</button>
         </div>
         <div class="wa-popup-content">
           <div class="wa-welcome-message">${config.welcomeMessage}</div>
