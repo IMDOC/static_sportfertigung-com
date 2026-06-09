@@ -258,6 +258,24 @@ def _format_date(iso_date: str) -> str:
         return iso_date
 
 
+def _upsert_hreflang(soup, alternates) -> None:
+    """根据 _posts JSON 的 alternates 字段输出多语言 hreflang 互指标签。"""
+    if not alternates or not soup.head:
+        return
+    # 先清掉旧的带 hreflang 的 alternate，避免重复
+    for old in soup.find_all('link', attrs={'rel': 'alternate'}):
+        if old.get('hreflang'):
+            old.decompose()
+    for alt in alternates:
+        lang = (alt or {}).get('lang')
+        url = (alt or {}).get('url')
+        if not lang or not url:
+            continue
+        link = soup.new_tag('link', rel='alternate', href=url)
+        link['hreflang'] = lang
+        soup.head.append(link)
+
+
 def _inject_head_meta(soup, post: dict) -> None:
     seo = post.get('seo') or {}
     title_tag = seo.get('title_tag') or post.get('title', '')
@@ -301,6 +319,7 @@ def _inject_head_meta(soup, post: dict) -> None:
     _upsert_meta(soup, key='article:published_time', value=pub_dt, attr='property')
     _upsert_meta(soup, key='article:modified_time', value=pub_dt, attr='property')
     _upsert_canonical(soup, canonical)
+    _upsert_hreflang(soup, post.get('alternates'))
 
     # 每个 target_keyword 一条 <meta property="article:tag">
     if soup.head:
