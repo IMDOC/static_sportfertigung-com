@@ -10,8 +10,24 @@
       "icon": "bi-gear-wide-connected",
       "featured": true,
       "parent_topic_ids": [],
-      "parent_topic_keywords": ["herstellung","fertigung","oem","odm","zuschnitt und konfektion","eigenmarke","produktion","fabrik","serienproduktion"],
-      "parent_topic_keywords_zh": ["制造","生产","工厂","代工","贴牌"]
+      "parent_topic_keywords": [
+        "herstellung",
+        "fertigung",
+        "oem",
+        "odm",
+        "zuschnitt und konfektion",
+        "eigenmarke",
+        "produktion",
+        "fabrik",
+        "serienproduktion"
+      ],
+      "parent_topic_keywords_zh": [
+        "制造",
+        "生产",
+        "工厂",
+        "代工",
+        "贴牌"
+      ]
     },
     {
       "slug": "textiltechnologie",
@@ -20,8 +36,22 @@
       "icon": "bi-droplet-half",
       "featured": true,
       "parent_topic_ids": [],
-      "parent_topic_keywords": ["stoff","schnelltrocknend","vier-wege-stretch","recyceltes polyester","technischer stoff","nylon elasthan","gsm","oeko-tex"],
-      "parent_topic_keywords_zh": ["面料","速干","弹力","再生聚酯"]
+      "parent_topic_keywords": [
+        "stoff",
+        "schnelltrocknend",
+        "vier-wege-stretch",
+        "recyceltes polyester",
+        "technischer stoff",
+        "nylon elasthan",
+        "gsm",
+        "oeko-tex"
+      ],
+      "parent_topic_keywords_zh": [
+        "面料",
+        "速干",
+        "弹力",
+        "再生聚酯"
+      ]
     },
     {
       "slug": "beschaffungs-guides",
@@ -30,8 +60,24 @@
       "icon": "bi-clipboard-check",
       "featured": true,
       "parent_topic_ids": [],
-      "parent_topic_keywords": ["beschaffung","sourcing","tech-pack","musterung","lieferant","moq","einkaufsratgeber","wie bestellen","mindestbestellmenge"],
-      "parent_topic_keywords_zh": ["采购","技术包","打样","供应商","起订量"]
+      "parent_topic_keywords": [
+        "beschaffung",
+        "sourcing",
+        "tech-pack",
+        "musterung",
+        "lieferant",
+        "moq",
+        "einkaufsratgeber",
+        "wie bestellen",
+        "mindestbestellmenge"
+      ],
+      "parent_topic_keywords_zh": [
+        "采购",
+        "技术包",
+        "打样",
+        "供应商",
+        "起订量"
+      ]
     },
     {
       "slug": "sportbekleidung-kategorien",
@@ -40,8 +86,26 @@
       "icon": "bi-grid-1x2",
       "featured": false,
       "parent_topic_ids": [],
-      "parent_topic_keywords": ["yoga","gym","radsport","fußball","basketball","streetwear","leggings","sport-bh","kompression","sweatshirt"],
-      "parent_topic_keywords_zh": ["瑜伽","健身","骑行","足球","篮球","潮牌"]
+      "parent_topic_keywords": [
+        "yoga",
+        "gym",
+        "radsport",
+        "fußball",
+        "basketball",
+        "streetwear",
+        "leggings",
+        "sport-bh",
+        "kompression",
+        "sweatshirt"
+      ],
+      "parent_topic_keywords_zh": [
+        "瑜伽",
+        "健身",
+        "骑行",
+        "足球",
+        "篮球",
+        "潮牌"
+      ]
     },
     {
       "slug": "branchentrends",
@@ -50,8 +114,46 @@
       "icon": "bi-graph-up-arrow",
       "featured": false,
       "parent_topic_ids": [],
-      "parent_topic_keywords": ["trends","nachhaltigkeit","compliance","zertifizierung","markt","recycelt","bsci","wrap","grs"],
-      "parent_topic_keywords_zh": ["趋势","可持续","认证","环保","市场"]
+      "parent_topic_keywords": [
+        "trends",
+        "nachhaltigkeit",
+        "compliance",
+        "zertifizierung",
+        "markt",
+        "recycelt",
+        "bsci",
+        "wrap",
+        "grs"
+      ],
+      "parent_topic_keywords_zh": [
+        "趋势",
+        "可持续",
+        "认证",
+        "环保",
+        "市场"
+      ]
+    },
+    {
+      "slug": "category-object-1",
+      "name": "Category object (1)",
+      "description": "Category object (1) articles, guides, and resources.",
+      "icon": "bi-folder",
+      "featured": false,
+      "parent_topic_ids": [],
+      "parent_topic_keywords": [
+        "category object (1)"
+      ],
+      "parent_topic_keywords_zh": [],
+      "seo": {
+        "title": "Category object (1) — Articles",
+        "description": "Expert articles and guides on Category object (1).",
+        "keywords": "category object (1)"
+      },
+      "hero": {
+        "h1": "Category object (1)",
+        "subtitle": "Expert articles and guides on Category object (1)."
+      },
+      "sections": []
     }
   ]
 }
