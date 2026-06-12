@@ -3,11 +3,43 @@
   "domain": "sportfertigung.com",
   "auto_register": true,
   "tags": [
-    {"slug":"oem","name":"OEM","description":"Artikel zur OEM-Fertigung — Produktion individueller Sportbekleidung nach Ihrem Tech-Pack."},
-    {"slug":"odm","name":"ODM","description":"Artikel zu ODM — Design plus Fertigung mit den Schnitten der Fabrik."},
-    {"slug":"eigenmarke","name":"Eigenmarke","description":"Artikel zu Sportbekleidung als Eigenmarke — Ihre Marke auf unseren Basisprodukten."},
-    {"slug":"niedrige-moq","name":"Niedrige MOQ","description":"Beschaffung mit niedriger MOQ und Kleinserien für aufstrebende Marken."},
-    {"slug":"musterung","name":"Musterung","description":"Artikel zu Musterung und Vorproduktion — Kosten, Zeit und Musterfreigabe."},
-    {"slug":"tech-pack","name":"Tech-Pack","description":"Artikel zu Tech-Pack, Schnitt und Gradierung — was hineingehört und wie man es vorbereitet."}
+    {
+      "slug": "oem",
+      "name": "OEM",
+      "description": "Artikel zur OEM-Fertigung — Produktion individueller Sportbekleidung nach Ihrem Tech-Pack."
+    },
+    {
+      "slug": "odm",
+      "name": "ODM",
+      "description": "Artikel zu ODM — Design plus Fertigung mit den Schnitten der Fabrik."
+    },
+    {
+      "slug": "eigenmarke",
+      "name": "Eigenmarke",
+      "description": "Artikel zu Sportbekleidung als Eigenmarke — Ihre Marke auf unseren Basisprodukten."
+    },
+    {
+      "slug": "niedrige-moq",
+      "name": "Niedrige MOQ",
+      "description": "Beschaffung mit niedriger MOQ und Kleinserien für aufstrebende Marken."
+    },
+    {
+      "slug": "musterung",
+      "name": "Musterung",
+      "description": "Artikel zu Musterung und Vorproduktion — Kosten, Zeit und Musterfreigabe."
+    },
+    {
+      "slug": "tech-pack",
+      "name": "Tech-Pack",
+      "description": "Artikel zu Tech-Pack, Schnitt und Gradierung — was hineingehört und wie man es vorbereitet."
+    },
+    {
+      "slug": "sport-bh-look-blazer",
+      "name": "sport bh look blazer",
+      "description": "Articles and resources tagged sport bh look blazer.",
+      "aliases": [
+        "sport bh look blazer"
+      ]
+    }
   ]
 }
