@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Top 8 Sportswear-Hersteller in Nigeria – Leitfaden 2026",
+      "slug": "top-8-sportswear-hersteller-in-nigeria-leitfaden-2026",
+      "url": "/top-8-sportswear-hersteller-in-nigeria-leitfaden-2026",
+      "excerpt": "Die 8 besten Sportswear-Hersteller in Nigeria 2026 im Vergleich: Kapazitäten, MOQs, Vor- & Nachteile – für Einkäufer und Marken.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-15",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/fea774989d19f479aea50e282d842481.webp",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 6,
+      "featured": true
+    },
+    {
       "title": "Bademode Großhandel Trends Sommer 2026 – Was Einkäufer wissen müssen",
       "slug": "die-heissesten-bademode-grosshandel-trends-fur-den-sommer-2026-was-einkaufer",
       "url": "/die-heissesten-bademode-grosshandel-trends-fur-den-sommer-2026-was-einkaufer",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 5,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Private Labelling für Fitnessstudios: Warum es unverzichtbar ist",
