@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "3 Wege für Activewear-Händler: Mehr Umsatz 2026",
+      "slug": "3-wege-wie-activewear-handler-ihren-umsatz-2026-steigern-konnen",
+      "url": "/3-wege-wie-activewear-handler-ihren-umsatz-2026-steigern-konnen",
+      "excerpt": "Entdecke 3 bewährte Verkaufstaktiken für Activewear-Händler mit unter 5 Mio. $ Umsatz – so steigerst du deine Verkäufe 2026 gezielt und profitabel.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-16",
+      "category": "Category object (1)",
+      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/6349f1fc-d7ff-45ae-a682-924202fee8f5.png\\\"",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 7,
+      "featured": true
+    },
+    {
       "title": "Top 8 Sportswear-Hersteller in Nigeria – Leitfaden 2026",
       "slug": "top-8-sportswear-hersteller-in-nigeria-leitfaden-2026",
       "url": "/top-8-sportswear-hersteller-in-nigeria-leitfaden-2026",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 6,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Bademode Großhandel Trends Sommer 2026 – Was Einkäufer wissen müssen",
