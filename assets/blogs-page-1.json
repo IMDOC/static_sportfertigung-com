@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Activewear außerhalb des Fitnessstudios: 7 Styling-Tipps",
+      "slug": "activewear-ausserhalb-des-fitnessstudios-tragen-7-einfache-styling-tipps",
+      "url": "/activewear-ausserhalb-des-fitnessstudios-tragen-7-einfache-styling-tipps",
+      "excerpt": "Leggings im Alltag stylen? Entdecke 7 einfache Outfit-Ideen, die Activewear vom Fitnessstudio auf die Straße bringen – für Kaffee, Büro und mehr.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-18",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/31e827ed-6cba-4ca4-9a8c-8008b4e705de.png",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 9,
+      "featured": true
+    },
+    {
       "title": "4 Bestseller-Bekleidungsprodukte für Private-Label-Hersteller 2026",
       "slug": "4-meistverkaufte-bekleidungsprodukte-die-private-label-hersteller-2026-anbieten",
       "url": "/4-meistverkaufte-bekleidungsprodukte-die-private-label-hersteller-2026-anbieten",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 8,
-      "featured": true
+      "featured": false
     },
     {
       "title": "3 Wege für Activewear-Händler: Mehr Umsatz 2026",
