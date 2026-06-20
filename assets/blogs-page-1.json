@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Wholesale Workout Leggings: Top Styles für Großhändler 2024",
+      "slug": "wholesale-workout-leggings-die-gefragtesten-styles-und-kollektionen-fur",
+      "url": "/wholesale-workout-leggings-die-gefragtesten-styles-und-kollektionen-fur",
+      "excerpt": "Die gefragtesten Wholesale-Leggings-Styles 2024: Scrunch-Naht, Seamless, Kompression & Plus-Size. QA-Framework und Margenrechner für Großeinkäufer.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-20",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/fe3279f8-6c30-484f-9d0a-6175d48efa54.png",
+      "tags": [
+        {
+          "slug": "leggings-gro-handel",
+          "name": "leggings großhandel"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 11,
+      "featured": true
+    },
+    {
       "title": "Top 9 Yoga-Wear-Lieferanten aus China: Großeinkaufs-Guide",
       "slug": "top-9-yoga-wear-lieferanten-aus-china-der-grosseinkaufs-guide-fur-marken",
       "url": "/top-9-yoga-wear-lieferanten-aus-china-der-grosseinkaufs-guide-fur-marken",
@@ -25,7 +47,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 10,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Activewear außerhalb des Fitnessstudios: 7 Styling-Tipps",
