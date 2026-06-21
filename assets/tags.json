@@ -64,6 +64,22 @@
       "aliases": [
         "leggings großhandel"
       ]
+    },
+    {
+      "slug": "sport-bh-laufen",
+      "name": "Sport-BH Laufen",
+      "description": "Articles and resources tagged Sport-BH Laufen.",
+      "aliases": [
+        "sport-bh laufen"
+      ]
+    },
+    {
+      "slug": "laufbekleidung-tipps",
+      "name": "Laufbekleidung Tipps",
+      "description": "Articles and resources tagged Laufbekleidung Tipps.",
+      "aliases": [
+        "laufbekleidung tipps"
+      ]
     }
   ]
 }
