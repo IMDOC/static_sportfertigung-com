@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Warum Leotards im Fitness- und Tanzsport ein Comeback erleben",
+      "slug": "warum-leotards-im-fitness-und-tanzsport-ein-comeback-erleben",
+      "url": "/warum-leotards-im-fitness-und-tanzsport-ein-comeback-erleben",
+      "excerpt": "Entdecke, warum Leotards im Fitness- und Tanzsport zurückkehren – von Leistungsvorteilen bis zum Bodysuit-Workout-Trend für Athleten und Einkäufer.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-26",
+      "category": "Category object (1)",
+      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9910d97f0c0683910914a6c8e577bf7a.webp\\\"",
+      "tags": [
+        {
+          "slug": "leotard-tanzsport",
+          "name": "leotard tanzsport"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 17,
+      "featured": true
+    },
+    {
       "title": "Yoga-Kleidung für Einsteiger: Stoffe, Passform & Funktionen",
       "slug": "yoga-kleidung-stoffe-passform-und-funktionen-was-einsteiger-wissen-mussen",
       "url": "/yoga-kleidung-stoffe-passform-und-funktionen-was-einsteiger-wissen-mussen",
@@ -16,7 +38,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 16,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Yoga-Großhandel: Die besten Herbstkollektion-Artikel 2025",
