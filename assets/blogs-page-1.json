@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Wachstumsmarkt Sportbekleidung: Die wichtigsten Treiber",
+      "slug": "wachstumsmarkt-sportbekleidung-die-entscheidenden-einflussfaktoren-im-uberblick",
+      "url": "/wachstumsmarkt-sportbekleidung-die-entscheidenden-einflussfaktoren-im-uberblick",
+      "excerpt": "Warum wächst der Sportbekleidungsmarkt so rasant? Wir analysieren die entscheidenden Nachfrage-, Angebots- und Makrotreiber – mit Daten und Marktbelegen.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-27",
+      "category": "Category object (1)",
+      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/4e8c3241835f5e19e57d71e93f4c6e29.webp\\\"",
+      "tags": [
+        {
+          "slug": "athleisure-trend",
+          "name": "Athleisure Trend"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 18,
+      "featured": true
+    },
+    {
       "title": "Warum Leotards im Fitness- und Tanzsport ein Comeback erleben",
       "slug": "warum-leotards-im-fitness-und-tanzsport-ein-comeback-erleben",
       "url": "/warum-leotards-im-fitness-und-tanzsport-ein-comeback-erleben",
@@ -21,7 +43,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 17,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Yoga-Kleidung für Einsteiger: Stoffe, Passform & Funktionen",
