@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Private Label vs. Custom Activewear: Das beste Modell für Startups",
+      "slug": "private-label-vs-custom-activewear-welches-modell-ist-besser-fur-startups",
+      "url": "/private-label-vs-custom-activewear-welches-modell-ist-besser-fur-startups",
+      "excerpt": "Private Label oder Custom Activewear? Vergleichen Sie Kosten, Risiken und Timelines – mit konkreter Entscheidungsmatrix für Startups ab 3.000 USD Budget.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-28",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/2a0f925af51449092ee443932632d362.webp",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 19,
+      "featured": true
+    },
+    {
       "title": "Wachstumsmarkt Sportbekleidung: Die wichtigsten Treiber",
       "slug": "wachstumsmarkt-sportbekleidung-die-entscheidenden-einflussfaktoren-im-uberblick",
       "url": "/wachstumsmarkt-sportbekleidung-die-entscheidenden-einflussfaktoren-im-uberblick",
@@ -21,7 +38,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 18,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Warum Leotards im Fitness- und Tanzsport ein Comeback erleben",
