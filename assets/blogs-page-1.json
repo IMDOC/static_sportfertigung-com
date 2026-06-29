@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Blank-Clothing-Hersteller finden: So wählen Sie richtig",
+      "slug": "wie-sie-den-richtigen-blank-clothing-hersteller-fur-ihre-marke-finden",
+      "url": "/wie-sie-den-richtigen-blank-clothing-hersteller-fur-ihre-marke-finden",
+      "excerpt": "Blank-Clothing-Hersteller richtig bewerten: Qualitätskriterien, MOQ-Schwellen, Warnsignale und eine 8-Dimensionen-Scorecard für Ihre Marke.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-29",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/f88ab0612ef0aa983e528effb014f332.webp",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 20,
+      "featured": true
+    },
+    {
       "title": "Private Label vs. Custom Activewear: Das beste Modell für Startups",
       "slug": "private-label-vs-custom-activewear-welches-modell-ist-besser-fur-startups",
       "url": "/private-label-vs-custom-activewear-welches-modell-ist-besser-fur-startups",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 19,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Wachstumsmarkt Sportbekleidung: Die wichtigsten Treiber",
