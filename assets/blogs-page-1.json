@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "7 Kriterien für den richtigen Sportbekleidungs-Großhändler",
+      "slug": "7-entscheidende-kriterien-fur-die-wahl-des-richtigen-sportbekleidungs",
+      "url": "/7-entscheidende-kriterien-fur-die-wahl-des-richtigen-sportbekleidungs",
+      "excerpt": "Erfahren Sie, welche 7 Kriterien bei der Wahl eines Sportbekleidungs-Großhändlers wirklich zählen – mit Warnsignalen und einem klaren Bewertungsframework.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-03",
+      "category": "Category object (1)",
+      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/7f2f5eb0-f53f-488d-ad9a-72ed19f9f29b.png\\\"",
+      "tags": [
+        {
+          "slug": "gym-wear-gro-handel",
+          "name": "gym wear großhandel"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 24,
+      "featured": true
+    },
+    {
       "title": "Top 10 Gym-Kleidungsstücke für Frauen 2026",
       "slug": "top-10-gym-kleidungsstucke-die-frauen-2026-am-haufigsten-kaufen",
       "url": "/top-10-gym-kleidungsstucke-die-frauen-2026-am-haufigsten-kaufen",
@@ -25,7 +47,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 23,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Fitness-Mode-Trends 2026: Was Marken jetzt einkaufen sollten",
@@ -373,23 +395,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 5,
-      "featured": false
-    },
-    {
-      "title": "Private Labelling für Fitnessstudios: Warum es unverzichtbar ist",
-      "slug": "warum-private-labelling-fur-ihr-fitnessstudio-unverzichtbar-ist",
-      "url": "/warum-private-labelling-fur-ihr-fitnessstudio-unverzichtbar-ist",
-      "excerpt": "Erfahren Sie, warum Private Labelling Ihr Fitnessstudio von der Konkurrenz abhebt – und wie Sie mit gebrandeten Produkten Umsatz und Mitgliederbindung steigern.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-13",
-      "category": "Category object (1)",
-      "thumbnail": "https://img.berunactivewear.com/assets/images/og-home.jpg",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 4,
       "featured": false
     }
   ]
