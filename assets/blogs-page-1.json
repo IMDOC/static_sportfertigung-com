@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Sublimationsdruck vs. Siebdruck: Das beste Verfahren für T-Shirts",
+      "slug": "sublimationsdruck-vs-siebdruck-welches-druckverfahren-eignet-sich-besser-fur",
+      "url": "/sublimationsdruck-vs-siebdruck-welches-druckverfahren-eignet-sich-besser-fur",
+      "excerpt": "Sublimationsdruck oder Siebdruck für Ihr Custom-T-Shirt? Wir vergleichen Kosten, MOQ, Farbqualität und Lieferzeiten – mit konkreten Zahlen aus der Produktion.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-05",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/88ec4163a1cbd1d408937ceed2922a18.webp",
+      "tags": [
+        {
+          "slug": "siebdruck-aktivwear",
+          "name": "siebdruck aktivwear"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 26,
+      "featured": true
+    },
+    {
       "title": "Fitnessmode-Branche 2026: Warum der Markt so schnell wächst",
       "slug": "warum-die-fitnessmode-branche-2026-schneller-wachst-als-je-zuvor",
       "url": "/warum-die-fitnessmode-branche-2026-schneller-wachst-als-je-zuvor",
@@ -25,7 +47,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 25,
-      "featured": true
+      "featured": false
     },
     {
       "title": "7 Kriterien für den richtigen Sportbekleidungs-Großhändler",
@@ -387,23 +409,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 7,
-      "featured": false
-    },
-    {
-      "title": "Top 8 Sportswear-Hersteller in Nigeria – Leitfaden 2026",
-      "slug": "top-8-sportswear-hersteller-in-nigeria-leitfaden-2026",
-      "url": "/top-8-sportswear-hersteller-in-nigeria-leitfaden-2026",
-      "excerpt": "Die 8 besten Sportswear-Hersteller in Nigeria 2026 im Vergleich: Kapazitäten, MOQs, Vor- & Nachteile – für Einkäufer und Marken.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-15",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/fea774989d19f479aea50e282d842481.webp",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 6,
       "featured": false
     }
   ]
