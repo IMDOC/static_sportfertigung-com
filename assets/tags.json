@@ -160,6 +160,38 @@
       "aliases": [
         "siebdruck aktivwear"
       ]
+    },
+    {
+      "slug": "dri-fit-vs-baumwolle",
+      "name": "Dri-FIT vs Baumwolle",
+      "description": "Articles and resources tagged Dri-FIT vs Baumwolle.",
+      "aliases": [
+        "dri-fit vs baumwolle"
+      ]
+    },
+    {
+      "slug": "bestes-sport-t-shirt",
+      "name": "bestes Sport T-Shirt",
+      "description": "Articles and resources tagged bestes Sport T-Shirt.",
+      "aliases": [
+        "bestes sport t-shirt"
+      ]
+    },
+    {
+      "slug": "baumwolle-beim-sport",
+      "name": "Baumwolle beim Sport",
+      "description": "Articles and resources tagged Baumwolle beim Sport.",
+      "aliases": [
+        "baumwolle beim sport"
+      ]
+    },
+    {
+      "slug": "dri-fit-training",
+      "name": "Dri-FIT Training",
+      "description": "Articles and resources tagged Dri-FIT Training.",
+      "aliases": [
+        "dri-fit training"
+      ]
     }
   ]
 }

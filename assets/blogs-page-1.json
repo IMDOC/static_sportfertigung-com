@@ -2,6 +2,40 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Dri-FIT vs. Baumwolle: Das beste T-Shirt für Sport",
+      "slug": "dri-fit-vs-baumwolle-welches-t-shirt-ist-besser-fur-einen-aktiven-lebensstil",
+      "url": "/dri-fit-vs-baumwolle-welches-t-shirt-ist-besser-fur-einen-aktiven-lebensstil",
+      "excerpt": "Dri-FIT oder Baumwolle – was ist besser für Training, Laufen & Alltag? Wir vergleichen Stoffe, Schweiß-Performance und Preis. Jetzt lesen.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-06",
+      "category": "Category object (1)",
+      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/91da4a37036f65f6c9c635bb28932d67.webp\\\"",
+      "tags": [
+        {
+          "slug": "dri-fit-vs-baumwolle",
+          "name": "Dri-FIT vs Baumwolle"
+        },
+        {
+          "slug": "bestes-sport-t-shirt",
+          "name": "bestes Sport T-Shirt"
+        },
+        {
+          "slug": "baumwolle-beim-sport",
+          "name": "Baumwolle beim Sport"
+        },
+        {
+          "slug": "dri-fit-training",
+          "name": "Dri-FIT Training"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 27,
+      "featured": true
+    },
+    {
       "title": "Sublimationsdruck vs. Siebdruck: Das beste Verfahren für T-Shirts",
       "slug": "sublimationsdruck-vs-siebdruck-welches-druckverfahren-eignet-sich-besser-fur",
       "url": "/sublimationsdruck-vs-siebdruck-welches-druckverfahren-eignet-sich-besser-fur",
@@ -21,7 +55,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 26,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Fitnessmode-Branche 2026: Warum der Markt so schnell wächst",
@@ -392,23 +426,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 8,
-      "featured": false
-    },
-    {
-      "title": "3 Wege für Activewear-Händler: Mehr Umsatz 2026",
-      "slug": "3-wege-wie-activewear-handler-ihren-umsatz-2026-steigern-konnen",
-      "url": "/3-wege-wie-activewear-handler-ihren-umsatz-2026-steigern-konnen",
-      "excerpt": "Entdecke 3 bewährte Verkaufstaktiken für Activewear-Händler mit unter 5 Mio. $ Umsatz – so steigerst du deine Verkäufe 2026 gezielt und profitabel.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-16",
-      "category": "Category object (1)",
-      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/6349f1fc-d7ff-45ae-a682-924202fee8f5.png\\\"",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 7,
       "featured": false
     }
   ]
