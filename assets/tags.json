@@ -192,6 +192,22 @@
       "aliases": [
         "dri-fit training"
       ]
+    },
+    {
+      "slug": "hiit-f-r-frauen",
+      "name": "HIIT für Frauen",
+      "description": "Articles and resources tagged HIIT für Frauen.",
+      "aliases": [
+        "hiit für frauen"
+      ]
+    },
+    {
+      "slug": "yoga-pilates-frauen",
+      "name": "Yoga Pilates Frauen",
+      "description": "Articles and resources tagged Yoga Pilates Frauen.",
+      "aliases": [
+        "yoga pilates frauen"
+      ]
     }
   ]
 }

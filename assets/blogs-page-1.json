@@ -2,6 +2,32 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Fünf Trainingsarten und ihre Vorteile für Frauen",
+      "slug": "funf-trainingsarten-und-ihre-vorteile-fur-frauen",
+      "url": "/funf-trainingsarten-und-ihre-vorteile-fur-frauen",
+      "excerpt": "Erfahre, wie Krafttraining, Cardio, HIIT, Yoga und funktionelles Training speziell auf den weiblichen Körper wirken – und welche Trainingsart zu deinen Zielen passt.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-09",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/26aef568006076525c16c196376c189e.webp",
+      "tags": [
+        {
+          "slug": "hiit-f-r-frauen",
+          "name": "HIIT für Frauen"
+        },
+        {
+          "slug": "yoga-pilates-frauen",
+          "name": "Yoga Pilates Frauen"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 30,
+      "featured": true
+    },
+    {
       "title": "4 Gründe für Hochleistungsgewebe im Sport",
       "slug": "4-grunde-warum-hochleistungsgewebe-im-sportswear-bereich-entscheidend-sind",
       "url": "/4-grunde-warum-hochleistungsgewebe-im-sportswear-bereich-entscheidend-sind",
@@ -16,7 +42,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 29,
-      "featured": true
+      "featured": false
     },
     {
       "title": "7 Strategien: Custom Activewear vermarkten & verkaufen",
@@ -400,32 +426,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 11,
-      "featured": false
-    },
-    {
-      "title": "Top 9 Yoga-Wear-Lieferanten aus China: Großeinkaufs-Guide",
-      "slug": "top-9-yoga-wear-lieferanten-aus-china-der-grosseinkaufs-guide-fur-marken",
-      "url": "/top-9-yoga-wear-lieferanten-aus-china-der-grosseinkaufs-guide-fur-marken",
-      "excerpt": "9 geprüfte Yoga-Wear-Hersteller aus China im Vergleich: echte MOQs, Lieferzeiten und ehrliche Vor- & Nachteile für Marken im Großeinkauf.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-19",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/c17c56ae-a892-4ed9-b1d5-95a439c1fee9.png",
-      "tags": [
-        {
-          "slug": "oem-yoga-wear-china",
-          "name": "OEM yoga wear china"
-        },
-        {
-          "slug": "yoga-wear-moq-china",
-          "name": "yoga wear MOQ china"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 10,
       "featured": false
     }
   ]
