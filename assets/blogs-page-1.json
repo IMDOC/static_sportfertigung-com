@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Top 12 Hersteller für individuelle Sportbekleidung USA",
+      "slug": "top-12-hersteller-fur-individuelle-sportbekleidung-in-den-usa",
+      "url": "/top-12-hersteller-fur-individuelle-sportbekleidung-in-den-usa",
+      "excerpt": "Die besten 12 Hersteller für individuelle Sportbekleidung in den USA – von Low-MOQ-Startups bis Cut-and-Sew-Experten. Jetzt vergleichen und die richtige Wahl treffen.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-10",
+      "category": "Category object (1)",
+      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/0af4b867-5e64-4907-8437-ab0340615bb3.png\\\"",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 31,
+      "featured": true
+    },
+    {
       "title": "Fünf Trainingsarten und ihre Vorteile für Frauen",
       "slug": "funf-trainingsarten-und-ihre-vorteile-fur-frauen",
       "url": "/funf-trainingsarten-und-ihre-vorteile-fur-frauen",
@@ -25,7 +42,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 30,
-      "featured": true
+      "featured": false
     },
     {
       "title": "4 Gründe für Hochleistungsgewebe im Sport",
@@ -404,28 +421,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 12,
-      "featured": false
-    },
-    {
-      "title": "Wholesale Workout Leggings: Top Styles für Großhändler 2024",
-      "slug": "wholesale-workout-leggings-die-gefragtesten-styles-und-kollektionen-fur",
-      "url": "/wholesale-workout-leggings-die-gefragtesten-styles-und-kollektionen-fur",
-      "excerpt": "Die gefragtesten Wholesale-Leggings-Styles 2024: Scrunch-Naht, Seamless, Kompression & Plus-Size. QA-Framework und Margenrechner für Großeinkäufer.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-20",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/fe3279f8-6c30-484f-9d0a-6175d48efa54.png",
-      "tags": [
-        {
-          "slug": "leggings-gro-handel",
-          "name": "leggings großhandel"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 11,
       "featured": false
     }
   ]
