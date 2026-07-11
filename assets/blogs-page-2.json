@@ -2,6 +2,32 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "3 Kleidungsfehler beim Laufen – und ihre Alternativen",
+      "slug": "3-dinge-die-du-beim-laufen-nicht-tragen-solltest-und-ihre-alternativen",
+      "url": "/3-dinge-die-du-beim-laufen-nicht-tragen-solltest-und-ihre-alternativen",
+      "excerpt": "Baumwoll-T-Shirts, falsche BHs, abgenutzte Schuhe – entdecke die 3 häufigsten Kleidungsfehler beim Laufen und welche Alternativen wirklich performen.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-21",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/dee38d1c-6aa7-46ac-bd31-2ce6086d2ba5.png",
+      "tags": [
+        {
+          "slug": "laufbekleidung-tipps",
+          "name": "Laufbekleidung Tipps"
+        },
+        {
+          "slug": "sport-bh-laufen",
+          "name": "Sport-BH Laufen"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 12,
+      "featured": false
+    },
+    {
       "title": "Wholesale Workout Leggings: Top Styles für Großhändler 2024",
       "slug": "wholesale-workout-leggings-die-gefragtesten-styles-und-kollektionen-fur",
       "url": "/wholesale-workout-leggings-die-gefragtesten-styles-und-kollektionen-fur",

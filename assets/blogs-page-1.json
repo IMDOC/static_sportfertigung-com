@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "China vs. Vietnam Sportswear-Hersteller: Vor- und Nachteile",
+      "slug": "china-vs-vietnam-sportswear-hersteller-vor-und-nachteile-wie-sie-die-richtige",
+      "url": "/china-vs-vietnam-sportswear-hersteller-vor-und-nachteile-wie-sie-die-richtige",
+      "excerpt": "China oder Vietnam für Ihre Sportswear-Produktion? Vergleichen Sie Kosten, MOQ, Lieferzeiten und Zollrisiken – mit praxisnahem Entscheidungsrahmen für Marken.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-11",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/99f397b9d3c232f53a90b291774a4129.webp",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 32,
+      "featured": true
+    },
+    {
       "title": "Top 12 Hersteller für individuelle Sportbekleidung USA",
       "slug": "top-12-hersteller-fur-individuelle-sportbekleidung-in-den-usa",
       "url": "/top-12-hersteller-fur-individuelle-sportbekleidung-in-den-usa",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 31,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Fünf Trainingsarten und ihre Vorteile für Frauen",
@@ -395,32 +412,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 13,
-      "featured": false
-    },
-    {
-      "title": "3 Kleidungsfehler beim Laufen – und ihre Alternativen",
-      "slug": "3-dinge-die-du-beim-laufen-nicht-tragen-solltest-und-ihre-alternativen",
-      "url": "/3-dinge-die-du-beim-laufen-nicht-tragen-solltest-und-ihre-alternativen",
-      "excerpt": "Baumwoll-T-Shirts, falsche BHs, abgenutzte Schuhe – entdecke die 3 häufigsten Kleidungsfehler beim Laufen und welche Alternativen wirklich performen.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-21",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/dee38d1c-6aa7-46ac-bd31-2ce6086d2ba5.png",
-      "tags": [
-        {
-          "slug": "laufbekleidung-tipps",
-          "name": "Laufbekleidung Tipps"
-        },
-        {
-          "slug": "sport-bh-laufen",
-          "name": "Sport-BH Laufen"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 12,
       "featured": false
     }
   ]
