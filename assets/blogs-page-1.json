@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Nahtlose vs. Cut-and-Sew Sportswear: Die richtige Wahl",
+      "slug": "nahtlose-vs-cut-and-sew-sportswear-welche-fertigungsmethode-ist-die-bessere-wahl",
+      "url": "/nahtlose-vs-cut-and-sew-sportswear-welche-fertigungsmethode-ist-die-bessere-wahl",
+      "excerpt": "Nahtlose oder Cut-and-Sew Sportswear? Entdecken Sie die echten Kompromisse bei Performance, Kosten und Skalierbarkeit – und finden Sie die beste Methode für Ihre Marke.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-12",
+      "category": "Category object (1)",
+      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9a2e81ebc61036f49d99635a8ae3a747.webp\\\"",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 33,
+      "featured": true
+    },
+    {
       "title": "China vs. Vietnam Sportswear-Hersteller: Vor- und Nachteile",
       "slug": "china-vs-vietnam-sportswear-hersteller-vor-und-nachteile-wie-sie-die-richtige",
       "url": "/china-vs-vietnam-sportswear-hersteller-vor-und-nachteile-wie-sie-die-richtige",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 32,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Top 12 Hersteller für individuelle Sportbekleidung USA",
@@ -386,32 +403,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 14,
-      "featured": false
-    },
-    {
-      "title": "Die 12 besten Jagdbekleidungsmarken in Großbritannien",
-      "slug": "die-12-besten-jagdbekleidungsmarken-in-grossbritannien",
-      "url": "/die-12-besten-jagdbekleidungsmarken-in-grossbritannien",
-      "excerpt": "Die 12 besten Jagdbekleidungsmarken Großbritanniens im Vergleich – von Barbour bis Purdey. Welche Marke passt zu Ihrem Revier, Budget und Jagdstil?",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-22",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/fea334a3-5580-4ff2-b64c-615a7b3b4e40.png",
-      "tags": [
-        {
-          "slug": "britische-jagdmode",
-          "name": "britische jagdmode"
-        },
-        {
-          "slug": "jagdjacke-kaufen-uk",
-          "name": "jagdjacke kaufen uk"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 13,
       "featured": false
     }
   ]

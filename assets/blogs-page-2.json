@@ -2,6 +2,32 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "Die 12 besten Jagdbekleidungsmarken in Großbritannien",
+      "slug": "die-12-besten-jagdbekleidungsmarken-in-grossbritannien",
+      "url": "/die-12-besten-jagdbekleidungsmarken-in-grossbritannien",
+      "excerpt": "Die 12 besten Jagdbekleidungsmarken Großbritanniens im Vergleich – von Barbour bis Purdey. Welche Marke passt zu Ihrem Revier, Budget und Jagdstil?",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-22",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/fea334a3-5580-4ff2-b64c-615a7b3b4e40.png",
+      "tags": [
+        {
+          "slug": "britische-jagdmode",
+          "name": "britische jagdmode"
+        },
+        {
+          "slug": "jagdjacke-kaufen-uk",
+          "name": "jagdjacke kaufen uk"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 13,
+      "featured": false
+    },
+    {
       "title": "3 Kleidungsfehler beim Laufen – und ihre Alternativen",
       "slug": "3-dinge-die-du-beim-laufen-nicht-tragen-solltest-und-ihre-alternativen",
       "url": "/3-dinge-die-du-beim-laufen-nicht-tragen-solltest-und-ihre-alternativen",
