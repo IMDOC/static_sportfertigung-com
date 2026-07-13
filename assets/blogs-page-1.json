@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Sportswear-Fabrik vs. Handelsunternehmen: Was ist besser für Ihre Marke?",
+      "slug": "sportswear-fabrik-vs-handelsunternehmen-was-ist-besser-fur-ihre-marke",
+      "url": "/sportswear-fabrik-vs-handelsunternehmen-was-ist-besser-fur-ihre-marke",
+      "excerpt": "Sportswear-Fabrik oder Handelsunternehmen? Erfahren Sie, welcher Lieferantentyp zu Ihrer Markenphase passt – und wie Sie Margen, Qualität und Skalierung optimieren.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-13",
+      "category": "Category object (1)",
+      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/a4929622671d854db6698d5417115066.webp\\\"",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 34,
+      "featured": true
+    },
+    {
       "title": "Nahtlose vs. Cut-and-Sew Sportswear: Die richtige Wahl",
       "slug": "nahtlose-vs-cut-and-sew-sportswear-welche-fertigungsmethode-ist-die-bessere-wahl",
       "url": "/nahtlose-vs-cut-and-sew-sportswear-welche-fertigungsmethode-ist-die-bessere-wahl",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 33,
-      "featured": true
+      "featured": false
     },
     {
       "title": "China vs. Vietnam Sportswear-Hersteller: Vor- und Nachteile",
@@ -386,23 +403,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 15,
-      "featured": false
-    },
-    {
-      "title": "3 Mustertrends für Yoga-Leggings, die Sie kennen müssen",
-      "slug": "3-mustertrends-fur-yoga-leggings-die-sie-jetzt-kennen-mussen",
-      "url": "/3-mustertrends-fur-yoga-leggings-die-sie-jetzt-kennen-mussen",
-      "excerpt": "Entdecken Sie 3 aufkommende Mustertrends für Yoga-Leggings – von geometrischen Prints bis botanischen Designs. Bleiben Sie der Konkurrenz einen Schritt voraus.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-23",
-      "category": "Category object (1)",
-      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/8461c062-30ab-49da-a591-b7346c4c12c6.png\\\"",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 14,
       "featured": false
     }
   ]
