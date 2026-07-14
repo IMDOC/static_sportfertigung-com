@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Top 10 Fitness-Bekleidungshersteller in Italien für Luxusmarken",
+      "slug": "top-10-fitness-bekleidungshersteller-in-italien-fur-luxusmarken",
+      "url": "/top-10-fitness-bekleidungshersteller-in-italien-fur-luxusmarken",
+      "excerpt": "Entdecken Sie die besten italienischen Fitness-Bekleidungshersteller für Luxusmarken – von nahtloser Damen-Athleisure bis hin zu Hightech-Performance-Stoffen.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-14",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/aa782731-4c57-4baa-8015-179b60d2b934.png",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 35,
+      "featured": true
+    },
+    {
       "title": "Sportswear-Fabrik vs. Handelsunternehmen: Was ist besser für Ihre Marke?",
       "slug": "sportswear-fabrik-vs-handelsunternehmen-was-ist-besser-fur-ihre-marke",
       "url": "/sportswear-fabrik-vs-handelsunternehmen-was-ist-besser-fur-ihre-marke",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 34,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Nahtlose vs. Cut-and-Sew Sportswear: Die richtige Wahl",
@@ -386,23 +403,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 16,
-      "featured": false
-    },
-    {
-      "title": "Yoga-Großhandel: Die besten Herbstkollektion-Artikel 2025",
-      "slug": "die-besten-yoga-grosshandelsartikel-fur-ihre-herbstkollektion",
-      "url": "/die-besten-yoga-grosshandelsartikel-fur-ihre-herbstkollektion",
-      "excerpt": "Entdecken Sie die profitabelsten Yoga-Großhandelsartikel für Ihre Herbstkollektion – Thermo-Leggings, Studio-Jacken, Sets & mehr mit Stoff-Tipps.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-24",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/178d6b97-da78-41d5-93d3-6aabbbc153c5.png",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 15,
       "featured": false
     }
   ]
