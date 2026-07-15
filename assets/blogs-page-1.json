@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Transferdruck vs. Siebdruck: Welche Methode hält länger?",
+      "slug": "transferdruck-vs-siebdruck-welche-logodruckmethode-halt-langer",
+      "url": "/transferdruck-vs-siebdruck-welche-logodruckmethode-halt-langer",
+      "excerpt": "Transferdruck oder Siebdruck – welche Methode übersteht Schweiß, Wäschen und Sport am längsten? Unser Praxisvergleich hilft Ihnen, die richtige Wahl zu treffen.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-15",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/f2364086-9ceb-4566-bd55-056533e2e1b1.png",
+      "tags": [
+        {
+          "slug": "logodruck-aktivwear",
+          "name": "logodruck aktivwear"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 36,
+      "featured": true
+    },
+    {
       "title": "Top 10 Fitness-Bekleidungshersteller in Italien für Luxusmarken",
       "slug": "top-10-fitness-bekleidungshersteller-in-italien-fur-luxusmarken",
       "url": "/top-10-fitness-bekleidungshersteller-in-italien-fur-luxusmarken",
@@ -16,7 +38,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 35,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Sportswear-Fabrik vs. Handelsunternehmen: Was ist besser für Ihre Marke?",
@@ -386,23 +408,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 17,
-      "featured": false
-    },
-    {
-      "title": "Yoga-Kleidung für Einsteiger: Stoffe, Passform & Funktionen",
-      "slug": "yoga-kleidung-stoffe-passform-und-funktionen-was-einsteiger-wissen-mussen",
-      "url": "/yoga-kleidung-stoffe-passform-und-funktionen-was-einsteiger-wissen-mussen",
-      "excerpt": "Yoga-Kleidung verstehen: Welche Stoffe, Passformen und Nähte wirklich zählen. Der Einsteiger-Guide für den fehlerfreien Kauf von Yoga-Outfits.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-25",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/14d639b0-4764-444e-b068-d60ea19ee155.png",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 16,
       "featured": false
     }
   ]
