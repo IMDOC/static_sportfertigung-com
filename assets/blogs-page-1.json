@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Activewear-Produktion: Deutschland vs. Übersee – Was passt zu dir?",
+      "slug": "activewear-produktion-in-deutschland-vs-ubersee-was-passt-besser-zu-deiner-marke",
+      "url": "/activewear-produktion-in-deutschland-vs-ubersee-was-passt-besser-zu-deiner-marke",
+      "excerpt": "Deutschland oder Übersee? Wir vergleichen 8 entscheidende Faktoren und helfen dir, die richtige Activewear-Fabrik für deine Markenphase zu wählen.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-16",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/b8ebcee351c0c5ff9d52fcd970b2789f.webp",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 37,
+      "featured": true
+    },
+    {
       "title": "Transferdruck vs. Siebdruck: Welche Methode hält länger?",
       "slug": "transferdruck-vs-siebdruck-welche-logodruckmethode-halt-langer",
       "url": "/transferdruck-vs-siebdruck-welche-logodruckmethode-halt-langer",
@@ -21,7 +38,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 36,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Top 10 Fitness-Bekleidungshersteller in Italien für Luxusmarken",
@@ -386,28 +403,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 18,
-      "featured": false
-    },
-    {
-      "title": "Warum Leotards im Fitness- und Tanzsport ein Comeback erleben",
-      "slug": "warum-leotards-im-fitness-und-tanzsport-ein-comeback-erleben",
-      "url": "/warum-leotards-im-fitness-und-tanzsport-ein-comeback-erleben",
-      "excerpt": "Entdecke, warum Leotards im Fitness- und Tanzsport zurückkehren – von Leistungsvorteilen bis zum Bodysuit-Workout-Trend für Athleten und Einkäufer.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-26",
-      "category": "Category object (1)",
-      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9910d97f0c0683910914a6c8e577bf7a.webp\\\"",
-      "tags": [
-        {
-          "slug": "leotard-tanzsport",
-          "name": "leotard tanzsport"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 17,
       "featured": false
     }
   ]
