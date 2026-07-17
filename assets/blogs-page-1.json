@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Activewear-Marke aufbauen 2026: Vollständige Budgetübersicht",
+      "slug": "was-kostet-der-aufbau-einer-eigenen-activewear-marke-2026-vollstandige",
+      "url": "/was-kostet-der-aufbau-einer-eigenen-activewear-marke-2026-vollstandige",
+      "excerpt": "Was kostet eine eigene Activewear-Marke 2026? Echte Zahlen, 3 Budget-Stufen & ein klarer Fahrplan – von Mustern bis zum ersten Verkauf.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-17",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9216a6e27961c42a3d47b66a08bc7f9c.webp",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 38,
+      "featured": true
+    },
+    {
       "title": "Activewear-Produktion: Deutschland vs. Übersee – Was passt zu dir?",
       "slug": "activewear-produktion-in-deutschland-vs-ubersee-was-passt-besser-zu-deiner-marke",
       "url": "/activewear-produktion-in-deutschland-vs-ubersee-was-passt-besser-zu-deiner-marke",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 37,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Transferdruck vs. Siebdruck: Welche Methode hält länger?",
@@ -381,28 +398,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 19,
-      "featured": false
-    },
-    {
-      "title": "Wachstumsmarkt Sportbekleidung: Die wichtigsten Treiber",
-      "slug": "wachstumsmarkt-sportbekleidung-die-entscheidenden-einflussfaktoren-im-uberblick",
-      "url": "/wachstumsmarkt-sportbekleidung-die-entscheidenden-einflussfaktoren-im-uberblick",
-      "excerpt": "Warum wächst der Sportbekleidungsmarkt so rasant? Wir analysieren die entscheidenden Nachfrage-, Angebots- und Makrotreiber – mit Daten und Marktbelegen.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-27",
-      "category": "Category object (1)",
-      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/4e8c3241835f5e19e57d71e93f4c6e29.webp\\\"",
-      "tags": [
-        {
-          "slug": "athleisure-trend",
-          "name": "Athleisure Trend"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 18,
       "featured": false
     }
   ]
