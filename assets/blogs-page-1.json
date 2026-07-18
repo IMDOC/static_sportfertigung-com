@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Stickerei vs. Hitzesiegel bei Uniformen: Vor- & Nachteile",
+      "slug": "stickerei-vs-hitzesiegel-bei-uniformen-vor-und-nachteile-im-vergleich",
+      "url": "/stickerei-vs-hitzesiegel-bei-uniformen-vor-und-nachteile-im-vergleich",
+      "excerpt": "Stickerei oder Hitzesiegel? Wir vergleichen Haltbarkeit, Kosten und Gewebeverträglichkeit – damit Sie die richtige Wahl für Ihre Uniformen treffen.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-18",
+      "category": "Category object (1)",
+      "thumbnail": "https://img.berunactivewear.com/assets/images/og-home.jpg",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 39,
+      "featured": true
+    },
+    {
       "title": "Activewear-Marke aufbauen 2026: Vollständige Budgetübersicht",
       "slug": "was-kostet-der-aufbau-einer-eigenen-activewear-marke-2026-vollstandige",
       "url": "/was-kostet-der-aufbau-einer-eigenen-activewear-marke-2026-vollstandige",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 38,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Activewear-Produktion: Deutschland vs. Übersee – Was passt zu dir?",
@@ -381,23 +398,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 20,
-      "featured": false
-    },
-    {
-      "title": "Private Label vs. Custom Activewear: Das beste Modell für Startups",
-      "slug": "private-label-vs-custom-activewear-welches-modell-ist-besser-fur-startups",
-      "url": "/private-label-vs-custom-activewear-welches-modell-ist-besser-fur-startups",
-      "excerpt": "Private Label oder Custom Activewear? Vergleichen Sie Kosten, Risiken und Timelines – mit konkreter Entscheidungsmatrix für Startups ab 3.000 USD Budget.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-28",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/2a0f925af51449092ee443932632d362.webp",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 19,
       "featured": false
     }
   ]
