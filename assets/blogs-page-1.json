@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "10 Sportbekleidungsstoffe im Vergleich: Atmung & Performance",
+      "slug": "die-10-besten-sportbekleidungsstoffe-im-vergleich-atmungsaktivitat-komfort",
+      "url": "/die-10-besten-sportbekleidungsstoffe-im-vergleich-atmungsaktivitat-komfort",
+      "excerpt": "Polyester, Nylon, Spandex & mehr: Die 10 besten Sportbekleidungsstoffe im direkten Vergleich nach Atmungsaktivität, Komfort und Haltbarkeit.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-20",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/a303d3b6-d9ce-4723-a24d-aa7c700e76c9.png",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 41,
+      "featured": true
+    },
+    {
       "title": "Flachnaht vs. Überwindungsnaht: Beste Naht für Kompression",
       "slug": "flachnaht-vs-uberwindungsnaht-welche-naht-ist-besser-fur-kompressionsbekleidung",
       "url": "/flachnaht-vs-uberwindungsnaht-welche-naht-ist-besser-fur-kompressionsbekleidung",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 40,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Stickerei vs. Hitzesiegel bei Uniformen: Vor- & Nachteile",
@@ -381,23 +398,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 22,
-      "featured": false
-    },
-    {
-      "title": "Großhandels-Gymwear-Hersteller auswählen: Guide für Händler",
-      "slug": "was-handler-wissen-mussen-bevor-sie-einen-grosshandels-gymwear-hersteller",
-      "url": "/was-handler-wissen-mussen-bevor-sie-einen-grosshandels-gymwear-hersteller",
-      "excerpt": "So wählen Sie den richtigen Großhandels-Gymwear-Hersteller: Qualitätsstandards, MOQ-Flexibilität, Zertifikate und Vertrags-Fallstricke im Überblick.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-30",
-      "category": "Category object (1)",
-      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/65563513-753f-40e2-82bd-f5ffa468fb3d.png\\\"",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 21,
       "featured": false
     }
   ]

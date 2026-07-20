@@ -2,6 +2,23 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "Großhandels-Gymwear-Hersteller auswählen: Guide für Händler",
+      "slug": "was-handler-wissen-mussen-bevor-sie-einen-grosshandels-gymwear-hersteller",
+      "url": "/was-handler-wissen-mussen-bevor-sie-einen-grosshandels-gymwear-hersteller",
+      "excerpt": "So wählen Sie den richtigen Großhandels-Gymwear-Hersteller: Qualitätsstandards, MOQ-Flexibilität, Zertifikate und Vertrags-Fallstricke im Überblick.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-30",
+      "category": "Category object (1)",
+      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/65563513-753f-40e2-82bd-f5ffa468fb3d.png\\\"",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 21,
+      "featured": false
+    },
+    {
       "title": "Blank-Clothing-Hersteller finden: So wählen Sie richtig",
       "slug": "wie-sie-den-richtigen-blank-clothing-hersteller-fur-ihre-marke-finden",
       "url": "/wie-sie-den-richtigen-blank-clothing-hersteller-fur-ihre-marke-finden",
@@ -369,23 +386,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 2,
-      "featured": false
-    },
-    {
-      "title": "Wie Sie den richtigen Sportbekleidungshersteller auswählen — Leitfaden 2026",
-      "slug": "sportbekleidungshersteller-auswaehlen",
-      "url": "/sportbekleidungshersteller-auswaehlen",
-      "excerpt": "Leitfaden für Marken: Wie Sie 2026 einen Sportbekleidungshersteller auswählen. Realistische MOQ, Musterung per Tech-Pack, messbare QC (AQL 2.5, ΔE ≤ 1,5) und Konsistenz über Bestellungen hinweg.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-08",
-      "category": "Beschaffungs-Guides",
-      "thumbnail": "https://img.berunactivewear.com/assets/images/ab-aerial-view-of-factory.webp",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "beschaffungs-guides",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 1,
       "featured": false
     }
   ]
