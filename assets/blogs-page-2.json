@@ -2,6 +2,23 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "Fitness-Mode-Trends 2026: Was Marken jetzt einkaufen sollten",
+      "slug": "fitness-mode-trends-2026-was-marken-jetzt-einkaufen-sollten-und-wann",
+      "url": "/fitness-mode-trends-2026-was-marken-jetzt-einkaufen-sollten-und-wann",
+      "excerpt": "Fitness-Mode-Trends 2026: Kategorie-Sourcing-Playbook, Einkaufszeitplan und Performance-Fabric-Einblicke für Marken, die jetzt Kaufentscheidungen treffen müssen.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-01",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/998979d7-2543-496b-86ec-0f35e2caca32.png",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 22,
+      "featured": false
+    },
+    {
       "title": "Großhandels-Gymwear-Hersteller auswählen: Guide für Händler",
       "slug": "was-handler-wissen-mussen-bevor-sie-einen-grosshandels-gymwear-hersteller",
       "url": "/was-handler-wissen-mussen-bevor-sie-einen-grosshandels-gymwear-hersteller",
@@ -369,23 +386,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 3,
-      "featured": false
-    },
-    {
-      "title": "Private-Label-Activewear-Marke aufbauen – 5 Schritte 2026",
-      "slug": "deine-eigene-private-label-activewear-marke-2026-aufbauen-5-konkrete-schritte",
-      "url": "/deine-eigene-private-label-activewear-marke-2026-aufbauen-5-konkrete-schritte",
-      "excerpt": "In 5 konkreten Schritten zur eigenen Private-Label-Activewear-Marke 2026 – von der Nischenfindung bis zur ersten Herstelleranfrage.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-11",
-      "category": "Category object (1)",
-      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/0eace3abb2a60ce8b5bcb579271e1704.webp\\\"",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 2,
       "featured": false
     }
   ]

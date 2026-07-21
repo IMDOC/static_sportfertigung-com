@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Beste Stoffe für Golfbekleidung 2026: Komfort & Performance",
+      "slug": "die-besten-stoffe-fur-golfbekleidung-2026-materialien-fur-komfort-performance-im",
+      "url": "/die-besten-stoffe-fur-golfbekleidung-2026-materialien-fur-komfort-performance-im",
+      "excerpt": "Entdecken Sie die besten Stoffe für Golfbekleidung 2026: feuchtigkeitstransportierende Materialien, Performance-Strick & mehr für Ihre Golfkollektion.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-21",
+      "category": "Category object (1)",
+      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/f3e60b147637eb718cde31982ebcdc58.webp\\\"",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 42,
+      "featured": true
+    },
+    {
       "title": "10 Sportbekleidungsstoffe im Vergleich: Atmung & Performance",
       "slug": "die-10-besten-sportbekleidungsstoffe-im-vergleich-atmungsaktivitat-komfort",
       "url": "/die-10-besten-sportbekleidungsstoffe-im-vergleich-atmungsaktivitat-komfort",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 41,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Flachnaht vs. Überwindungsnaht: Beste Naht für Kompression",
@@ -381,23 +398,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 23,
-      "featured": false
-    },
-    {
-      "title": "Fitness-Mode-Trends 2026: Was Marken jetzt einkaufen sollten",
-      "slug": "fitness-mode-trends-2026-was-marken-jetzt-einkaufen-sollten-und-wann",
-      "url": "/fitness-mode-trends-2026-was-marken-jetzt-einkaufen-sollten-und-wann",
-      "excerpt": "Fitness-Mode-Trends 2026: Kategorie-Sourcing-Playbook, Einkaufszeitplan und Performance-Fabric-Einblicke für Marken, die jetzt Kaufentscheidungen treffen müssen.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-01",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/998979d7-2543-496b-86ec-0f35e2caca32.png",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 22,
       "featured": false
     }
   ]
