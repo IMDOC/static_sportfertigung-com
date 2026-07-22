@@ -2,6 +2,32 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "Top 10 Gym-Kleidungsstücke für Frauen 2026",
+      "slug": "top-10-gym-kleidungsstucke-die-frauen-2026-am-haufigsten-kaufen",
+      "url": "/top-10-gym-kleidungsstucke-die-frauen-2026-am-haufigsten-kaufen",
+      "excerpt": "Entdecke die 10 meistgekauften Gym-Kleidungsstücke für Frauen 2026 – getestet unter echten Bedingungen für Leggings, BHs, Shorts und mehr.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-02",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/f0d2e16c-05a6-48b0-84ae-14a16135da6c.png",
+      "tags": [
+        {
+          "slug": "sport-bh-frauen-2026",
+          "name": "sport bh frauen 2026"
+        },
+        {
+          "slug": "gym-outfit-frauen",
+          "name": "gym outfit frauen"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 23,
+      "featured": false
+    },
+    {
       "title": "Fitness-Mode-Trends 2026: Was Marken jetzt einkaufen sollten",
       "slug": "fitness-mode-trends-2026-was-marken-jetzt-einkaufen-sollten-und-wann",
       "url": "/fitness-mode-trends-2026-was-marken-jetzt-einkaufen-sollten-und-wann",
@@ -364,28 +390,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 4,
-      "featured": false
-    },
-    {
-      "title": "3 Sport-BH-Outfits für Sommer 2026 – Athleisure-Looks stylen",
-      "slug": "3-sports-bh-outfits-fur-den-sommer-2026-so-stylen-stilvolle-frauen-athleisure-im",
-      "url": "/3-sports-bh-outfits-fur-den-sommer-2026-so-stylen-stilvolle-frauen-athleisure-im",
-      "excerpt": "So trägst du den Sport-BH stylisch im Alltag: 3 Athleisure-Outfit-Formeln für Sommer 2026 – für Stadt, Brunch und Strandurlaub.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-12",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/b71b0c471ee56e7ad389c49ccfcb0738.webp",
-      "tags": [
-        {
-          "slug": "sport-bh-look-blazer",
-          "name": "sport bh look blazer"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 3,
       "featured": false
     }
   ]

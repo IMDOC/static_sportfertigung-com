@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Gym Wear Sets produzieren: Kosten, MOQ & Lieferzeiten",
+      "slug": "gym-wear-sets-produzieren-lassen-kosten-moq-lieferzeiten-der-komplette-leitfaden",
+      "url": "/gym-wear-sets-produzieren-lassen-kosten-moq-lieferzeiten-der-komplette-leitfaden",
+      "excerpt": "Gym Wear Sets produzieren lassen: Reale Stückpreise, MOQ-Standards und Produktions-Vorlaufzeiten – alles, was Sie vor der ersten Bestellung wissen müssen.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-22",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/a5357e29b656a3b22d67a0b412413d53.webp",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 43,
+      "featured": true
+    },
+    {
       "title": "Beste Stoffe für Golfbekleidung 2026: Komfort & Performance",
       "slug": "die-besten-stoffe-fur-golfbekleidung-2026-materialien-fur-komfort-performance-im",
       "url": "/die-besten-stoffe-fur-golfbekleidung-2026-materialien-fur-komfort-performance-im",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 42,
-      "featured": true
+      "featured": false
     },
     {
       "title": "10 Sportbekleidungsstoffe im Vergleich: Atmung & Performance",
@@ -372,32 +389,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 24,
-      "featured": false
-    },
-    {
-      "title": "Top 10 Gym-Kleidungsstücke für Frauen 2026",
-      "slug": "top-10-gym-kleidungsstucke-die-frauen-2026-am-haufigsten-kaufen",
-      "url": "/top-10-gym-kleidungsstucke-die-frauen-2026-am-haufigsten-kaufen",
-      "excerpt": "Entdecke die 10 meistgekauften Gym-Kleidungsstücke für Frauen 2026 – getestet unter echten Bedingungen für Leggings, BHs, Shorts und mehr.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-02",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/f0d2e16c-05a6-48b0-84ae-14a16135da6c.png",
-      "tags": [
-        {
-          "slug": "sport-bh-frauen-2026",
-          "name": "sport bh frauen 2026"
-        },
-        {
-          "slug": "gym-outfit-frauen",
-          "name": "gym outfit frauen"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 23,
       "featured": false
     }
   ]
