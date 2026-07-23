@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "10 Beste Premium Gymwear Marken UK 2026",
+      "slug": "10-beste-premium-gymwear-marken-in-uk-der-ratgeber-2026",
+      "url": "/10-beste-premium-gymwear-marken-in-uk-der-ratgeber-2026",
+      "excerpt": "Die 10 besten Premium-Gymwear-Marken in UK 2026 im Vergleich – Qualität, Passform und Langlebigkeit für anspruchsvolle Käufer. Jetzt den Ratgeber lesen.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-23",
+      "category": "Category object (1)",
+      "thumbnail": "https://img.berunactivewear.com/assets/images/og-home.jpg",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 44,
+      "featured": true
+    },
+    {
       "title": "Gym Wear Sets produzieren: Kosten, MOQ & Lieferzeiten",
       "slug": "gym-wear-sets-produzieren-lassen-kosten-moq-lieferzeiten-der-komplette-leitfaden",
       "url": "/gym-wear-sets-produzieren-lassen-kosten-moq-lieferzeiten-der-komplette-leitfaden",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 43,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Beste Stoffe für Golfbekleidung 2026: Komfort & Performance",
@@ -367,28 +384,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 25,
-      "featured": false
-    },
-    {
-      "title": "7 Kriterien für den richtigen Sportbekleidungs-Großhändler",
-      "slug": "7-entscheidende-kriterien-fur-die-wahl-des-richtigen-sportbekleidungs",
-      "url": "/7-entscheidende-kriterien-fur-die-wahl-des-richtigen-sportbekleidungs",
-      "excerpt": "Erfahren Sie, welche 7 Kriterien bei der Wahl eines Sportbekleidungs-Großhändlers wirklich zählen – mit Warnsignalen und einem klaren Bewertungsframework.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-03",
-      "category": "Category object (1)",
-      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/7f2f5eb0-f53f-488d-ad9a-72ed19f9f29b.png\\\"",
-      "tags": [
-        {
-          "slug": "gym-wear-gro-handel",
-          "name": "gym wear großhandel"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 24,
       "featured": false
     }
   ]
