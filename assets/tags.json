@@ -216,6 +216,14 @@
       "aliases": [
         "logodruck aktivwear"
       ]
+    },
+    {
+      "slug": "odm-activewear-marke",
+      "name": "ODM Activewear Marke",
+      "description": "Articles and resources tagged ODM Activewear Marke.",
+      "aliases": [
+        "odm activewear marke"
+      ]
     }
   ]
 }

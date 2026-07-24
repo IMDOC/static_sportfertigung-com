@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "OEM vs. ODM: Welches Modell ist kosteneffizienter? (2024)",
+      "slug": "oem-vs-odm-welches-fertigungsmodell-ist-wirklich-kosteneffizienter",
+      "url": "/oem-vs-odm-welches-fertigungsmodell-ist-wirklich-kosteneffizienter",
+      "excerpt": "OEM oder ODM – welches Fertigungsmodell spart wirklich Kosten? Vergleich für Activewear-Marken nach Budget, MOQ, IP und Wachstumsphase.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-24",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/f31b882a-3952-4fa0-8482-4e07ee94292d.png",
+      "tags": [
+        {
+          "slug": "odm-activewear-marke",
+          "name": "ODM Activewear Marke"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 45,
+      "featured": true
+    },
+    {
       "title": "10 Beste Premium Gymwear Marken UK 2026",
       "slug": "10-beste-premium-gymwear-marken-in-uk-der-ratgeber-2026",
       "url": "/10-beste-premium-gymwear-marken-in-uk-der-ratgeber-2026",
@@ -16,7 +38,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 44,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Gym Wear Sets produzieren: Kosten, MOQ & Lieferzeiten",
@@ -358,32 +380,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 26,
-      "featured": false
-    },
-    {
-      "title": "Fitnessmode-Branche 2026: Warum der Markt so schnell wächst",
-      "slug": "warum-die-fitnessmode-branche-2026-schneller-wachst-als-je-zuvor",
-      "url": "/warum-die-fitnessmode-branche-2026-schneller-wachst-als-je-zuvor",
-      "excerpt": "Erfahren Sie, warum die Fitnessmode-Branche 2026 boomt: globale Marktgröße, CAGR-Benchmarks, Segment-Wachstum und der Athleisure-Trend im Überblick.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-04",
-      "category": "Category object (1)",
-      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/550cf4ec-334b-44c8-be5f-17929b138db7.png\\\"",
-      "tags": [
-        {
-          "slug": "athleisure-expansion",
-          "name": "athleisure expansion"
-        },
-        {
-          "slug": "activewear-cagr-2026",
-          "name": "activewear CAGR 2026"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 25,
       "featured": false
     }
   ]
