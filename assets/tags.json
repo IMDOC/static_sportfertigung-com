@@ -224,6 +224,14 @@
       "aliases": [
         "odm activewear marke"
       ]
+    },
+    {
+      "slug": "kompressionsstoff",
+      "name": "Kompressionsstoff",
+      "description": "Articles and resources tagged Kompressionsstoff.",
+      "aliases": [
+        "kompressionsstoff"
+      ]
     }
   ]
 }
