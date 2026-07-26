@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Gymshark Vital vs. Adapt Leggings im Vergleich",
+      "slug": "gymshark-vital-vs-adapt-leggings-welche-kollektion-uberzeugt-beim-training-mehr",
+      "url": "/gymshark-vital-vs-adapt-leggings-welche-kollektion-uberzeugt-beim-training-mehr",
+      "excerpt": "Gymshark Vital oder Adapt? Wir vergleichen Stoff, Kompression, Bund und Passform für Training, Yoga & mehr – so findest du die richtige Legging.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-26",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/afef1a72d8ca2148632f2e672389bfc4.webp",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 47,
+      "featured": true
+    },
+    {
       "title": "Beste Kompressionsstoffe: Nylon, Polyester & Spandex im Vergleich",
       "slug": "beste-stoffe-fur-kompressionskleidung-welche-materialien-liefern-die-richtige",
       "url": "/beste-stoffe-fur-kompressionskleidung-welche-materialien-liefern-die-richtige",
@@ -21,7 +38,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 46,
-      "featured": true
+      "featured": false
     },
     {
       "title": "OEM vs. ODM: Welches Modell ist kosteneffizienter? (2024)",
@@ -346,40 +363,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 28,
-      "featured": false
-    },
-    {
-      "title": "Dri-FIT vs. Baumwolle: Das beste T-Shirt für Sport",
-      "slug": "dri-fit-vs-baumwolle-welches-t-shirt-ist-besser-fur-einen-aktiven-lebensstil",
-      "url": "/dri-fit-vs-baumwolle-welches-t-shirt-ist-besser-fur-einen-aktiven-lebensstil",
-      "excerpt": "Dri-FIT oder Baumwolle – was ist besser für Training, Laufen & Alltag? Wir vergleichen Stoffe, Schweiß-Performance und Preis. Jetzt lesen.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-06",
-      "category": "Category object (1)",
-      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/91da4a37036f65f6c9c635bb28932d67.webp\\\"",
-      "tags": [
-        {
-          "slug": "dri-fit-vs-baumwolle",
-          "name": "Dri-FIT vs Baumwolle"
-        },
-        {
-          "slug": "bestes-sport-t-shirt",
-          "name": "bestes Sport T-Shirt"
-        },
-        {
-          "slug": "baumwolle-beim-sport",
-          "name": "Baumwolle beim Sport"
-        },
-        {
-          "slug": "dri-fit-training",
-          "name": "Dri-FIT Training"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 27,
       "featured": false
     }
   ]
