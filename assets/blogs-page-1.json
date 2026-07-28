@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Lululemon Align vs. Wunder Train: Leggings-Vergleich",
+      "slug": "lululemon-align-vs-wunder-train-welche-leggings-passt-zu-deinem-training",
+      "url": "/lululemon-align-vs-wunder-train-welche-leggings-passt-zu-deinem-training",
+      "excerpt": "Align oder Wunder Train? Vergleiche Stoff, Kompression und Passform der Lululemon Leggings und finde die richtige für dein Training.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-28",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/4ac9ee4c-064e-45ef-a7e5-2ab38d1d75d8.png",
+      "tags": [
+        {
+          "slug": "yoga-leggings-kaufen",
+          "name": "Yoga Leggings kaufen"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 48,
+      "featured": true
+    },
+    {
       "title": "Gymshark Vital vs. Adapt Leggings im Vergleich",
       "slug": "gymshark-vital-vs-adapt-leggings-welche-kollektion-uberzeugt-beim-training-mehr",
       "url": "/gymshark-vital-vs-adapt-leggings-welche-kollektion-uberzeugt-beim-training-mehr",
@@ -16,7 +38,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 47,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Beste Kompressionsstoffe: Nylon, Polyester & Spandex im Vergleich",
@@ -346,23 +368,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 29,
-      "featured": false
-    },
-    {
-      "title": "7 Strategien: Custom Activewear vermarkten & verkaufen",
-      "slug": "7-bewahrte-strategien-um-custom-activewear-erfolgreich-zu-vermarkten-und-zu",
-      "url": "/7-bewahrte-strategien-um-custom-activewear-erfolgreich-zu-vermarkten-und-zu",
-      "excerpt": "7 bewährte Strategien, mit denen kleine Activewear-Marken ihr Custom-Produkt erfolgreich vermarkten und verkaufen – jede Maßnahme unter 500 USD.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-07",
-      "category": "Category object (1)",
-      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/58ec13eb-9cd6-45ff-b47d-e30cf2e74c41.png\\\"",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 28,
       "featured": false
     }
   ]
