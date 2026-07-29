@@ -2,6 +2,32 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Vuori Kore vs. Banks Short: Vergleich für Training & Alltag",
+      "slug": "vuori-kore-vs-banks-short-welcher-ist-besser-fur-training-und-alltag",
+      "url": "/vuori-kore-vs-banks-short-welcher-ist-besser-fur-training-und-alltag",
+      "excerpt": "Vuori Kore vs. Banks Short im Vergleich: Passform, Komfort, Haltbarkeit und Preis – finde heraus, welche Short zu deinem Alltag passt.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-29",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/6f6a97e4-0016-4a6e-bca5-df97ee034426.png",
+      "tags": [
+        {
+          "slug": "vuori-kore-short",
+          "name": "Vuori Kore Short"
+        },
+        {
+          "slug": "vuori-banks-short",
+          "name": "Vuori Banks Short"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 49,
+      "featured": true
+    },
+    {
       "title": "Lululemon Align vs. Wunder Train: Leggings-Vergleich",
       "slug": "lululemon-align-vs-wunder-train-welche-leggings-passt-zu-deinem-training",
       "url": "/lululemon-align-vs-wunder-train-welche-leggings-passt-zu-deinem-training",
@@ -21,7 +47,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 48,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Gymshark Vital vs. Adapt Leggings im Vergleich",
@@ -351,23 +377,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 30,
-      "featured": false
-    },
-    {
-      "title": "4 Gründe für Hochleistungsgewebe im Sport",
-      "slug": "4-grunde-warum-hochleistungsgewebe-im-sportswear-bereich-entscheidend-sind",
-      "url": "/4-grunde-warum-hochleistungsgewebe-im-sportswear-bereich-entscheidend-sind",
-      "excerpt": "Warum Hochleistungsgewebe im Sport entscheidend sind: Feuchtigkeitsmanagement, Atmungsaktivität, Geruchskontrolle und Bewegungsfreiheit – die 4 wichtigsten Gründe.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-08",
-      "category": "Category object (1)",
-      "thumbnail": "https://img.berunactivewear.com/assets/images/og-home.jpg",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 29,
       "featured": false
     }
   ]
