@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Adidas AEROREADY vs HEAT.RDY: Welche Technologie ist besser?",
+      "slug": "adidas-aeroready-vs-heat-rdy-welche-performance-bekleidungstechnologie-ist",
+      "url": "/adidas-aeroready-vs-heat-rdy-welche-performance-bekleidungstechnologie-ist",
+      "excerpt": "AEROREADY vs HEAT.RDY im Vergleich: Stoff, Atmungsaktivität, Passform & Preis. Finden Sie die beste Adidas-Technologie für Ihre Anforderungen.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-30",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/11e7130a49c12637cee6fe53513d0185.webp",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 50,
+      "featured": true
+    },
+    {
       "title": "Vuori Kore vs. Banks Short: Vergleich für Training & Alltag",
       "slug": "vuori-kore-vs-banks-short-welcher-ist-besser-fur-training-und-alltag",
       "url": "/vuori-kore-vs-banks-short-welcher-ist-besser-fur-training-und-alltag",
@@ -25,7 +42,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 49,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Lululemon Align vs. Wunder Train: Leggings-Vergleich",
@@ -351,32 +368,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 31,
-      "featured": false
-    },
-    {
-      "title": "Fünf Trainingsarten und ihre Vorteile für Frauen",
-      "slug": "funf-trainingsarten-und-ihre-vorteile-fur-frauen",
-      "url": "/funf-trainingsarten-und-ihre-vorteile-fur-frauen",
-      "excerpt": "Erfahre, wie Krafttraining, Cardio, HIIT, Yoga und funktionelles Training speziell auf den weiblichen Körper wirken – und welche Trainingsart zu deinen Zielen passt.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-09",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/26aef568006076525c16c196376c189e.webp",
-      "tags": [
-        {
-          "slug": "hiit-f-r-frauen",
-          "name": "HIIT für Frauen"
-        },
-        {
-          "slug": "yoga-pilates-frauen",
-          "name": "Yoga Pilates Frauen"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 30,
       "featured": false
     }
   ]
