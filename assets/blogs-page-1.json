@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Under Armour HeatGear vs ColdGear: Der ultimative Vergleich",
+      "slug": "under-armour-heatgear-vs-coldgear-welche-serie-passt-besser-zu-ihren",
+      "url": "/under-armour-heatgear-vs-coldgear-welche-serie-passt-besser-zu-ihren",
+      "excerpt": "HeatGear oder ColdGear? Der ultimative Vergleich zeigt, welche Under Armour Serie je nach Temperatur, Sportart und Training die bessere Wahl ist.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-31",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/e66ebe504a1986af14781ae5e1bd1e61.webp",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 51,
+      "featured": true
+    },
+    {
       "title": "Adidas AEROREADY vs HEAT.RDY: Welche Technologie ist besser?",
       "slug": "adidas-aeroready-vs-heat-rdy-welche-performance-bekleidungstechnologie-ist",
       "url": "/adidas-aeroready-vs-heat-rdy-welche-performance-bekleidungstechnologie-ist",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 50,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Vuori Kore vs. Banks Short: Vergleich für Training & Alltag",
@@ -351,23 +368,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 32,
-      "featured": false
-    },
-    {
-      "title": "Top 12 Hersteller für individuelle Sportbekleidung USA",
-      "slug": "top-12-hersteller-fur-individuelle-sportbekleidung-in-den-usa",
-      "url": "/top-12-hersteller-fur-individuelle-sportbekleidung-in-den-usa",
-      "excerpt": "Die besten 12 Hersteller für individuelle Sportbekleidung in den USA – von Low-MOQ-Startups bis Cut-and-Sew-Experten. Jetzt vergleichen und die richtige Wahl treffen.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-10",
-      "category": "Category object (1)",
-      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/0af4b867-5e64-4907-8437-ab0340615bb3.png\\\"",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 31,
       "featured": false
     }
   ]
