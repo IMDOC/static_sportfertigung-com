@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Alo Airlift vs Airbrush: Was ist der Unterschied?",
+      "slug": "alo-airlift-vs-airbrush-leggings-was-ist-der-unterschied",
+      "url": "/alo-airlift-vs-airbrush-leggings-was-ist-der-unterschied",
+      "excerpt": "Alo Airlift vs Airbrush Leggings im Vergleich: Stoff, Kompression, Passform & Körpertyp – finde heraus, welches Modell zu deinem Training passt.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-01",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/fa46540109f625de7079b3aee39704aa.webp",
+      "tags": [
+        {
+          "slug": "alo-yoga-activewear",
+          "name": "Alo Yoga Activewear"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 52,
+      "featured": true
+    },
+    {
       "title": "Under Armour HeatGear vs ColdGear: Der ultimative Vergleich",
       "slug": "under-armour-heatgear-vs-coldgear-welche-serie-passt-besser-zu-ihren",
       "url": "/under-armour-heatgear-vs-coldgear-welche-serie-passt-besser-zu-ihren",
@@ -16,7 +38,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 51,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Adidas AEROREADY vs HEAT.RDY: Welche Technologie ist besser?",
@@ -351,23 +373,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 33,
-      "featured": false
-    },
-    {
-      "title": "China vs. Vietnam Sportswear-Hersteller: Vor- und Nachteile",
-      "slug": "china-vs-vietnam-sportswear-hersteller-vor-und-nachteile-wie-sie-die-richtige",
-      "url": "/china-vs-vietnam-sportswear-hersteller-vor-und-nachteile-wie-sie-die-richtige",
-      "excerpt": "China oder Vietnam für Ihre Sportswear-Produktion? Vergleichen Sie Kosten, MOQ, Lieferzeiten und Zollrisiken – mit praxisnahem Entscheidungsrahmen für Marken.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-11",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/99f397b9d3c232f53a90b291774a4129.webp",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 32,
       "featured": false
     }
   ]
