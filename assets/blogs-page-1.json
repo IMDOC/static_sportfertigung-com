@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "5 wichtigste QC-Schritte für Activewear-Marken",
+      "slug": "die-5-wichtigsten-qualitatskontrollschritte-fur-activewear-marken",
+      "url": "/die-5-wichtigsten-qualitatskontrollschritte-fur-activewear-marken",
+      "excerpt": "Erfahren Sie, wie Activewear-Marken mit 5 klaren QC-Schritten Nähte, Farben und Stoffe absichern und teure Retouren sowie 1-Stern-Bewertungen vermeiden.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-02",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/c30c840e-7a02-4055-abae-12936af65fec.png",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 53,
+      "featured": true
+    },
+    {
       "title": "Alo Airlift vs Airbrush: Was ist der Unterschied?",
       "slug": "alo-airlift-vs-airbrush-leggings-was-ist-der-unterschied",
       "url": "/alo-airlift-vs-airbrush-leggings-was-ist-der-unterschied",
@@ -21,7 +38,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 52,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Under Armour HeatGear vs ColdGear: Der ultimative Vergleich",
@@ -356,23 +373,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 34,
-      "featured": false
-    },
-    {
-      "title": "Nahtlose vs. Cut-and-Sew Sportswear: Die richtige Wahl",
-      "slug": "nahtlose-vs-cut-and-sew-sportswear-welche-fertigungsmethode-ist-die-bessere-wahl",
-      "url": "/nahtlose-vs-cut-and-sew-sportswear-welche-fertigungsmethode-ist-die-bessere-wahl",
-      "excerpt": "Nahtlose oder Cut-and-Sew Sportswear? Entdecken Sie die echten Kompromisse bei Performance, Kosten und Skalierbarkeit – und finden Sie die beste Methode für Ihre Marke.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-12",
-      "category": "Category object (1)",
-      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9a2e81ebc61036f49d99635a8ae3a747.webp\\\"",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 33,
       "featured": false
     }
   ]
