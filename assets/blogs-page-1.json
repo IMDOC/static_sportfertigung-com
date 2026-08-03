@@ -2,6 +2,44 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "So finden Sie die richtige Bademode für Frauen diesen Sommer",
+      "slug": "so-finden-sie-die-richtige-bademode-fur-frauen-diesen-sommer",
+      "url": "/so-finden-sie-die-richtige-bademode-fur-frauen-diesen-sommer",
+      "excerpt": "Finden Sie die perfekte Bademode für Ihre Körperform – Birnen-, Apfel-, Sanduhr-Typ & mehr. Keine Fehlkäufe mehr, klare Empfehlungen für diesen Sommer.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-03",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/e6e93aad-64b1-430c-9904-c396f931fd79.png",
+      "tags": [
+        {
+          "slug": "bademode-sommer-2026",
+          "name": "bademode sommer 2026"
+        },
+        {
+          "slug": "bademode-f-r-frauen",
+          "name": "bademode für frauen"
+        },
+        {
+          "slug": "bademode-birnenform",
+          "name": "bademode birnenform"
+        },
+        {
+          "slug": "bademode-apfelform",
+          "name": "bademode apfelform"
+        },
+        {
+          "slug": "sanduhrform-bademode",
+          "name": "sanduhrform bademode"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 54,
+      "featured": true
+    },
+    {
       "title": "5 wichtigste QC-Schritte für Activewear-Marken",
       "slug": "die-5-wichtigsten-qualitatskontrollschritte-fur-activewear-marken",
       "url": "/die-5-wichtigsten-qualitatskontrollschritte-fur-activewear-marken",
@@ -16,7 +54,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 53,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Alo Airlift vs Airbrush: Was ist der Unterschied?",
@@ -356,23 +394,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 35,
-      "featured": false
-    },
-    {
-      "title": "Sportswear-Fabrik vs. Handelsunternehmen: Was ist besser für Ihre Marke?",
-      "slug": "sportswear-fabrik-vs-handelsunternehmen-was-ist-besser-fur-ihre-marke",
-      "url": "/sportswear-fabrik-vs-handelsunternehmen-was-ist-besser-fur-ihre-marke",
-      "excerpt": "Sportswear-Fabrik oder Handelsunternehmen? Erfahren Sie, welcher Lieferantentyp zu Ihrer Markenphase passt – und wie Sie Margen, Qualität und Skalierung optimieren.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-13",
-      "category": "Category object (1)",
-      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/a4929622671d854db6698d5417115066.webp\\\"",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 34,
       "featured": false
     }
   ]
