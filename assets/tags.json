@@ -304,6 +304,22 @@
       "aliases": [
         "bademode sommer 2026"
       ]
+    },
+    {
+      "slug": "sport-bh-support",
+      "name": "sport-bh support",
+      "description": "Articles and resources tagged sport-bh support.",
+      "aliases": [
+        "sport-bh support"
+      ]
+    },
+    {
+      "slug": "activewear-stoffe",
+      "name": "activewear stoffe",
+      "description": "Articles and resources tagged activewear stoffe.",
+      "aliases": [
+        "activewear stoffe"
+      ]
     }
   ]
 }

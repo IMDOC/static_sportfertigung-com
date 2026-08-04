@@ -2,6 +2,32 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Trainingskleidung für Frauen: Der ultimative Leitfaden",
+      "slug": "die-richtige-trainingskleidung-fur-frauen-finden-ein-leitfaden",
+      "url": "/die-richtige-trainingskleidung-fur-frauen-finden-ein-leitfaden",
+      "excerpt": "Der ultimative Guide zur richtigen Trainingskleidung für Frauen: Stoffe, Sport-BH-Support und Outfits für jede Trainingsart – praktisch und budgetbewusst.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-04",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/e8ac1e09-f271-49e1-a48f-2f9d23a8cde3.png",
+      "tags": [
+        {
+          "slug": "sport-bh-support",
+          "name": "sport-bh support"
+        },
+        {
+          "slug": "activewear-stoffe",
+          "name": "activewear stoffe"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 55,
+      "featured": true
+    },
+    {
       "title": "So finden Sie die richtige Bademode für Frauen diesen Sommer",
       "slug": "so-finden-sie-die-richtige-bademode-fur-frauen-diesen-sommer",
       "url": "/so-finden-sie-die-richtige-bademode-fur-frauen-diesen-sommer",
@@ -37,7 +63,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 54,
-      "featured": true
+      "featured": false
     },
     {
       "title": "5 wichtigste QC-Schritte für Activewear-Marken",
@@ -377,23 +403,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 36,
-      "featured": false
-    },
-    {
-      "title": "Top 10 Fitness-Bekleidungshersteller in Italien für Luxusmarken",
-      "slug": "top-10-fitness-bekleidungshersteller-in-italien-fur-luxusmarken",
-      "url": "/top-10-fitness-bekleidungshersteller-in-italien-fur-luxusmarken",
-      "excerpt": "Entdecken Sie die besten italienischen Fitness-Bekleidungshersteller für Luxusmarken – von nahtloser Damen-Athleisure bis hin zu Hightech-Performance-Stoffen.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-14",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/aa782731-4c57-4baa-8015-179b60d2b934.png",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 35,
       "featured": false
     }
   ]
