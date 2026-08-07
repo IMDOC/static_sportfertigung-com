@@ -2,6 +2,36 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Top 3 Sport-BH-Designs mit hohem Halt für Ihre Kollektion",
+      "slug": "top-3-sport-bh-designs-mit-hohem-halt-die-ihre-kollektion-braucht",
+      "url": "/top-3-sport-bh-designs-mit-hohem-halt-die-ihre-kollektion-braucht",
+      "excerpt": "3 Sport-BH-Designs mit hohem Halt im Test: Encapsulation, Compression & Hybrid für Lauf, HIIT & CrossFit – ideal für OEM-Markenpartner.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-07",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/29bb9442-cdea-4073-a714-c011d61335aa.png",
+      "tags": [
+        {
+          "slug": "sport-bh-gro-handel",
+          "name": "Sport-BH Großhandel"
+        },
+        {
+          "slug": "compression-sport-bh",
+          "name": "Compression Sport-BH"
+        },
+        {
+          "slug": "high-impact-lauf-bh",
+          "name": "High-Impact Lauf-BH"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 58,
+      "featured": true
+    },
+    {
       "title": "Welche Yoga-Kollektion eignet sich für den Markenaufbau?",
       "slug": "welche-art-von-massgeschneiderter-yoga-bekleidungskollektion-eignet-sich-fur-den",
       "url": "/welche-art-von-massgeschneiderter-yoga-bekleidungskollektion-eignet-sich-fur-den",
@@ -16,7 +46,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 57,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Gym Shorts Bestseller-Designs: So wählen Sie richtig aus",
@@ -381,23 +411,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 39,
-      "featured": false
-    },
-    {
-      "title": "Activewear-Marke aufbauen 2026: Vollständige Budgetübersicht",
-      "slug": "was-kostet-der-aufbau-einer-eigenen-activewear-marke-2026-vollstandige",
-      "url": "/was-kostet-der-aufbau-einer-eigenen-activewear-marke-2026-vollstandige",
-      "excerpt": "Was kostet eine eigene Activewear-Marke 2026? Echte Zahlen, 3 Budget-Stufen & ein klarer Fahrplan – von Mustern bis zum ersten Verkauf.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-17",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9216a6e27961c42a3d47b66a08bc7f9c.webp",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 38,
       "featured": false
     }
   ]

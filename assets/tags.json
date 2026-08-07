@@ -320,6 +320,30 @@
       "aliases": [
         "activewear stoffe"
       ]
+    },
+    {
+      "slug": "compression-sport-bh",
+      "name": "Compression Sport-BH",
+      "description": "Articles and resources tagged Compression Sport-BH.",
+      "aliases": [
+        "compression sport-bh"
+      ]
+    },
+    {
+      "slug": "high-impact-lauf-bh",
+      "name": "High-Impact Lauf-BH",
+      "description": "Articles and resources tagged High-Impact Lauf-BH.",
+      "aliases": [
+        "high-impact lauf-bh"
+      ]
+    },
+    {
+      "slug": "sport-bh-gro-handel",
+      "name": "Sport-BH Großhandel",
+      "description": "Articles and resources tagged Sport-BH Großhandel.",
+      "aliases": [
+        "sport-bh großhandel"
+      ]
     }
   ]
 }
