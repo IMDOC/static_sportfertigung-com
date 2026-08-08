@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Gym Wear für Männer: Der ultimative Style-Ratgeber",
+      "slug": "der-ultimative-ratgeber-fur-stilbewusste-manner-gym-wear-die-sitzt",
+      "url": "/der-ultimative-ratgeber-fur-stilbewusste-manner-gym-wear-die-sitzt",
+      "excerpt": "Der ultimative Gym-Wear-Guide für Männer: passende Trainingskleidung nach Körpertyp und Trainingsziel – für Kraft, Cardio und Beweglichkeit.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-08",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/02ce228a-2a85-4a2e-96a1-8743abd71430.png",
+      "tags": [
+        {
+          "slug": "gym-wear-m-nner",
+          "name": "Gym Wear Männer"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 59,
+      "featured": true
+    },
+    {
       "title": "Top 3 Sport-BH-Designs mit hohem Halt für Ihre Kollektion",
       "slug": "top-3-sport-bh-designs-mit-hohem-halt-die-ihre-kollektion-braucht",
       "url": "/top-3-sport-bh-designs-mit-hohem-halt-die-ihre-kollektion-braucht",
@@ -29,7 +51,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 58,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Welche Yoga-Kollektion eignet sich für den Markenaufbau?",
@@ -394,23 +416,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 40,
-      "featured": false
-    },
-    {
-      "title": "Stickerei vs. Hitzesiegel bei Uniformen: Vor- & Nachteile",
-      "slug": "stickerei-vs-hitzesiegel-bei-uniformen-vor-und-nachteile-im-vergleich",
-      "url": "/stickerei-vs-hitzesiegel-bei-uniformen-vor-und-nachteile-im-vergleich",
-      "excerpt": "Stickerei oder Hitzesiegel? Wir vergleichen Haltbarkeit, Kosten und Gewebeverträglichkeit – damit Sie die richtige Wahl für Ihre Uniformen treffen.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-18",
-      "category": "Category object (1)",
-      "thumbnail": "https://img.berunactivewear.com/assets/images/og-home.jpg",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 39,
       "featured": false
     }
   ]
