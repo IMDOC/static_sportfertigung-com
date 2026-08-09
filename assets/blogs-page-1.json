@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Saisonale Modetrends 2024: Einkaufsleitfaden für AU-Händler",
+      "slug": "saisonale-trends-2024-fur-australische-mode-einzelhandler-der-ultimative",
+      "url": "/saisonale-trends-2024-fur-australische-mode-einzelhandler-der-ultimative",
+      "excerpt": "Saisonale Kaufmuster, Bestandsplanung und Einkaufskalender für australische Mode-Einzelhändler 2024 – mit Klimazonen-Strategie für jede Jahreszeit.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-09",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/3270d116-ad8d-4146-a454-e7fab99d3f50.png",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 60,
+      "featured": true
+    },
+    {
       "title": "Gym Wear für Männer: Der ultimative Style-Ratgeber",
       "slug": "der-ultimative-ratgeber-fur-stilbewusste-manner-gym-wear-die-sitzt",
       "url": "/der-ultimative-ratgeber-fur-stilbewusste-manner-gym-wear-die-sitzt",
@@ -21,7 +38,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 59,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Top 3 Sport-BH-Designs mit hohem Halt für Ihre Kollektion",
@@ -399,23 +416,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 41,
-      "featured": false
-    },
-    {
-      "title": "Flachnaht vs. Überwindungsnaht: Beste Naht für Kompression",
-      "slug": "flachnaht-vs-uberwindungsnaht-welche-naht-ist-besser-fur-kompressionsbekleidung",
-      "url": "/flachnaht-vs-uberwindungsnaht-welche-naht-ist-besser-fur-kompressionsbekleidung",
-      "excerpt": "Flachnaht oder Überwindungsnaht? Erfahre, welche Naht bei Kompressionsbekleidung weniger scheuert, länger hält und wo sie optimal platziert wird.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-19",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/80ae0d23-819c-405f-bdf9-dc03e827fef6.png",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 40,
       "featured": false
     }
   ]
