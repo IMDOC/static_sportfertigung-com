@@ -2,6 +2,32 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Maßgeschneiderte Yogahosen bestellen: Leitfaden für Marken",
+      "slug": "massgeschneiderte-yogahosen-bestellen-der-komplette-leitfaden-fur-hersteller",
+      "url": "/massgeschneiderte-yogahosen-bestellen-der-komplette-leitfaden-fur-hersteller",
+      "excerpt": "Yogahosen maßschneidern lassen: Produktionszeitplan, MOQ, Preise pro Paar und die 8-Punkte-Checkliste für die Wahl Ihres Activewear-Herstellers.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-10",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/06bada3e-d784-45f1-a94c-989f29326762.png",
+      "tags": [
+        {
+          "slug": "yogahosen-hersteller",
+          "name": "Yogahosen Hersteller"
+        },
+        {
+          "slug": "tech-pack-activewear",
+          "name": "Tech-Pack Activewear"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 61,
+      "featured": true
+    },
+    {
       "title": "Saisonale Modetrends 2024: Einkaufsleitfaden für AU-Händler",
       "slug": "saisonale-trends-2024-fur-australische-mode-einzelhandler-der-ultimative",
       "url": "/saisonale-trends-2024-fur-australische-mode-einzelhandler-der-ultimative",
@@ -16,7 +42,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 60,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Gym Wear für Männer: Der ultimative Style-Ratgeber",
@@ -399,23 +425,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 42,
-      "featured": false
-    },
-    {
-      "title": "10 Sportbekleidungsstoffe im Vergleich: Atmung & Performance",
-      "slug": "die-10-besten-sportbekleidungsstoffe-im-vergleich-atmungsaktivitat-komfort",
-      "url": "/die-10-besten-sportbekleidungsstoffe-im-vergleich-atmungsaktivitat-komfort",
-      "excerpt": "Polyester, Nylon, Spandex & mehr: Die 10 besten Sportbekleidungsstoffe im direkten Vergleich nach Atmungsaktivität, Komfort und Haltbarkeit.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-20",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/a303d3b6-d9ce-4723-a24d-aa7c700e76c9.png",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 41,
       "featured": false
     }
   ]
