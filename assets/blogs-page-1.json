@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Fitness-Ausrüstung 2026: Trends & Einkaufsstrategie für Händler",
+      "slug": "die-beste-fitness-ausrustung-2026-worauf-handler-jetzt-setzen-sollten-daten",
+      "url": "/die-beste-fitness-ausrustung-2026-worauf-handler-jetzt-setzen-sollten-daten",
+      "excerpt": "Datenbasierte Analyse für 2026: Welche Fitness-Ausrüstungskategorien sich für Händler lohnen, welche Margen möglich sind – und wo Vorsicht angebracht ist.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-11",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9766633a-74be-40e3-b865-a7436c734b54.png",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 62,
+      "featured": true
+    },
+    {
       "title": "Maßgeschneiderte Yogahosen bestellen: Leitfaden für Marken",
       "slug": "massgeschneiderte-yogahosen-bestellen-der-komplette-leitfaden-fur-hersteller",
       "url": "/massgeschneiderte-yogahosen-bestellen-der-komplette-leitfaden-fur-hersteller",
@@ -25,7 +42,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 61,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Saisonale Modetrends 2024: Einkaufsleitfaden für AU-Händler",
@@ -408,23 +425,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 43,
-      "featured": false
-    },
-    {
-      "title": "Beste Stoffe für Golfbekleidung 2026: Komfort & Performance",
-      "slug": "die-besten-stoffe-fur-golfbekleidung-2026-materialien-fur-komfort-performance-im",
-      "url": "/die-besten-stoffe-fur-golfbekleidung-2026-materialien-fur-komfort-performance-im",
-      "excerpt": "Entdecken Sie die besten Stoffe für Golfbekleidung 2026: feuchtigkeitstransportierende Materialien, Performance-Strick & mehr für Ihre Golfkollektion.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-21",
-      "category": "Category object (1)",
-      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/f3e60b147637eb718cde31982ebcdc58.webp\\\"",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 42,
       "featured": false
     }
   ]
