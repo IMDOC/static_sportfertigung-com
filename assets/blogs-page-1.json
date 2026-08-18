@@ -2,6 +2,32 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Was ziehe ich zur ersten Yogastunde an? Outfit-Guide",
+      "slug": "was-ziehe-ich-zu-meiner-ersten-yogastunde-an",
+      "url": "/was-ziehe-ich-zu-meiner-ersten-yogastunde-an",
+      "excerpt": "Was solltest du zur ersten Yogastunde anziehen? Vermeide typische Anfängerfehler und finde dein perfektes Outfit – für jedes Budget.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-18",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/2c1c5b238bc7ea37f90b1f3ae9799bac.webp",
+      "tags": [
+        {
+          "slug": "yoga-leggings-outfit",
+          "name": "yoga leggings outfit"
+        },
+        {
+          "slug": "yoga-anf-nger-fehler",
+          "name": "yoga anfänger fehler"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 63,
+      "featured": true
+    },
+    {
       "title": "Fitness-Ausrüstung 2026: Trends & Einkaufsstrategie für Händler",
       "slug": "die-beste-fitness-ausrustung-2026-worauf-handler-jetzt-setzen-sollten-daten",
       "url": "/die-beste-fitness-ausrustung-2026-worauf-handler-jetzt-setzen-sollten-daten",
@@ -16,7 +42,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 62,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Maßgeschneiderte Yogahosen bestellen: Leitfaden für Marken",
@@ -408,23 +434,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 44,
-      "featured": false
-    },
-    {
-      "title": "Gym Wear Sets produzieren: Kosten, MOQ & Lieferzeiten",
-      "slug": "gym-wear-sets-produzieren-lassen-kosten-moq-lieferzeiten-der-komplette-leitfaden",
-      "url": "/gym-wear-sets-produzieren-lassen-kosten-moq-lieferzeiten-der-komplette-leitfaden",
-      "excerpt": "Gym Wear Sets produzieren lassen: Reale Stückpreise, MOQ-Standards und Produktions-Vorlaufzeiten – alles, was Sie vor der ersten Bestellung wissen müssen.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-22",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/a5357e29b656a3b22d67a0b412413d53.webp",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 43,
       "featured": false
     }
   ]
