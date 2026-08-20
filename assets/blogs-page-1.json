@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Private Label Yogahosen designen: Der vollständige Leitfaden",
+      "slug": "private-label-yogahosen-designen-der-vollstandige-leitfaden",
+      "url": "/private-label-yogahosen-designen-der-vollstandige-leitfaden",
+      "excerpt": "Der komplette Leitfaden für private Label Yogahosen: Stoffwahl, Nahttechniken, Logo-Platzierung, MOQ-Verhandlung und Musterprüfung – praxisnah erklärt.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-20",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/6e8c3b7e-b129-4546-b187-92653e204821.png",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 65,
+      "featured": true
+    },
+    {
       "title": "Top 10 Workout-Leggings-Lieferanten für Activewear 2026",
       "slug": "die-10-besten-workout-leggings-fur-activewear-marken-zum-verkauf-2026",
       "url": "/die-10-besten-workout-leggings-fur-activewear-marken-zum-verkauf-2026",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 64,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Was ziehe ich zur ersten Yogastunde an? Outfit-Guide",
@@ -412,28 +429,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 46,
-      "featured": false
-    },
-    {
-      "title": "OEM vs. ODM: Welches Modell ist kosteneffizienter? (2024)",
-      "slug": "oem-vs-odm-welches-fertigungsmodell-ist-wirklich-kosteneffizienter",
-      "url": "/oem-vs-odm-welches-fertigungsmodell-ist-wirklich-kosteneffizienter",
-      "excerpt": "OEM oder ODM – welches Fertigungsmodell spart wirklich Kosten? Vergleich für Activewear-Marken nach Budget, MOQ, IP und Wachstumsphase.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-24",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/f31b882a-3952-4fa0-8482-4e07ee94292d.png",
-      "tags": [
-        {
-          "slug": "odm-activewear-marke",
-          "name": "ODM Activewear Marke"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 45,
       "featured": false
     }
   ]
