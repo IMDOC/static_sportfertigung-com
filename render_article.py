@@ -304,6 +304,11 @@ def _inject_head_meta(soup, post: dict) -> None:
 
     if soup.title and title_tag:
         soup.title.string = title_tag
+    # robots：shell template 可能带 noindex（防模板页泄漏），真实文章必须覆写回 index；
+    # 验证件（hello post 等）在 JSON 里带 "noindex": true → 输出 noindex, nofollow。
+    robots_val = 'noindex, nofollow' if post.get('noindex') else \
+        'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
+    _upsert_meta(soup, key='robots', value=robots_val)
     _upsert_meta(soup, key='description', value=meta_desc)
     _upsert_meta(soup, key='keywords', value=', '.join(keywords))
     _upsert_meta(soup, key='author', value=author.get('name', ''))
