@@ -2,6 +2,28 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "Beste Kompressionsstoffe: Nylon, Polyester & Spandex im Vergleich",
+      "slug": "beste-stoffe-fur-kompressionskleidung-welche-materialien-liefern-die-richtige",
+      "url": "/beste-stoffe-fur-kompressionskleidung-welche-materialien-liefern-die-richtige",
+      "excerpt": "Welche Stoffe liefern echte Kompression? Nylon, Polyester und Spandex-Mischungen im direkten Vergleich – mit Kaufcheckliste für Athleten und Einkäufer.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-25",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/db6cc89462c47a121172b56c1f60da56.webp",
+      "tags": [
+        {
+          "slug": "kompressionsstoff",
+          "name": "Kompressionsstoff"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 46,
+      "featured": false
+    },
+    {
       "title": "OEM vs. ODM: Welches Modell ist kosteneffizienter? (2024)",
       "slug": "oem-vs-odm-welches-fertigungsmodell-ist-wirklich-kosteneffizienter",
       "url": "/oem-vs-odm-welches-fertigungsmodell-ist-wirklich-kosteneffizienter",
@@ -358,28 +380,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 27,
-      "featured": false
-    },
-    {
-      "title": "Sublimationsdruck vs. Siebdruck: Das beste Verfahren für T-Shirts",
-      "slug": "sublimationsdruck-vs-siebdruck-welches-druckverfahren-eignet-sich-besser-fur",
-      "url": "/sublimationsdruck-vs-siebdruck-welches-druckverfahren-eignet-sich-besser-fur",
-      "excerpt": "Sublimationsdruck oder Siebdruck für Ihr Custom-T-Shirt? Wir vergleichen Kosten, MOQ, Farbqualität und Lieferzeiten – mit konkreten Zahlen aus der Produktion.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-05",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/88ec4163a1cbd1d408937ceed2922a18.webp",
-      "tags": [
-        {
-          "slug": "siebdruck-aktivwear",
-          "name": "siebdruck aktivwear"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 26,
       "featured": false
     }
   ]

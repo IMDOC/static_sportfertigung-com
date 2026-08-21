@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Marathon-Laufbekleidung 2026: 5 Schritte zum Kollektionsaufbau",
+      "slug": "5-schritte-zum-aufbau-einer-marathon-tauglichen-laufbekleidungskollektion-fur",
+      "url": "/5-schritte-zum-aufbau-einer-marathon-tauglichen-laufbekleidungskollektion-fur",
+      "excerpt": "So bauen Sie 2026 eine Marathon-taugliche Laufbekleidungskollektion auf: SKU-Matrix, geprüfte Performance-Stoffe, Tragtest-Zeitplan und Launch-Timing.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-21",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/2825b44f-9703-4e91-9ef0-6ebb98531224.png",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 66,
+      "featured": true
+    },
+    {
       "title": "Private Label Yogahosen designen: Der vollständige Leitfaden",
       "slug": "private-label-yogahosen-designen-der-vollstandige-leitfaden",
       "url": "/private-label-yogahosen-designen-der-vollstandige-leitfaden",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 65,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Top 10 Workout-Leggings-Lieferanten für Activewear 2026",
@@ -407,28 +424,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 47,
-      "featured": false
-    },
-    {
-      "title": "Beste Kompressionsstoffe: Nylon, Polyester & Spandex im Vergleich",
-      "slug": "beste-stoffe-fur-kompressionskleidung-welche-materialien-liefern-die-richtige",
-      "url": "/beste-stoffe-fur-kompressionskleidung-welche-materialien-liefern-die-richtige",
-      "excerpt": "Welche Stoffe liefern echte Kompression? Nylon, Polyester und Spandex-Mischungen im direkten Vergleich – mit Kaufcheckliste für Athleten und Einkäufer.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-25",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/db6cc89462c47a121172b56c1f60da56.webp",
-      "tags": [
-        {
-          "slug": "kompressionsstoff",
-          "name": "Kompressionsstoff"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 46,
       "featured": false
     }
   ]
