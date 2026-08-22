@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Top 5 Strategien für mehr Bademoden-Verkäufe 2026",
+      "slug": "top-5-bewahrte-strategien-fur-mehr-bademoden-verkaufe-im-jahr-2026",
+      "url": "/top-5-bewahrte-strategien-fur-mehr-bademoden-verkaufe-im-jahr-2026",
+      "excerpt": "5 erprobte Taktiken für 2026, um Bademoden-Retouren zu senken und Verkäufe zu steigern – mit echten Zahlen von Andie Swim, Frankies Bikinis & mehr.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-22",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/c690ed3d65c71bb4d78c7d3f83135a04.webp",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 67,
+      "featured": true
+    },
+    {
       "title": "Marathon-Laufbekleidung 2026: 5 Schritte zum Kollektionsaufbau",
       "slug": "5-schritte-zum-aufbau-einer-marathon-tauglichen-laufbekleidungskollektion-fur",
       "url": "/5-schritte-zum-aufbau-einer-marathon-tauglichen-laufbekleidungskollektion-fur",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 66,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Private Label Yogahosen designen: Der vollständige Leitfaden",
@@ -407,23 +424,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 48,
-      "featured": false
-    },
-    {
-      "title": "Gymshark Vital vs. Adapt Leggings im Vergleich",
-      "slug": "gymshark-vital-vs-adapt-leggings-welche-kollektion-uberzeugt-beim-training-mehr",
-      "url": "/gymshark-vital-vs-adapt-leggings-welche-kollektion-uberzeugt-beim-training-mehr",
-      "excerpt": "Gymshark Vital oder Adapt? Wir vergleichen Stoff, Kompression, Bund und Passform für Training, Yoga & mehr – so findest du die richtige Legging.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-26",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/afef1a72d8ca2148632f2e672389bfc4.webp",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 47,
       "featured": false
     }
   ]
