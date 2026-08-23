@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Physique vs. Bodybuilding: Wichtigste Unterschiede im Vergleich",
+      "slug": "physique-vs-bodybuilding-die-wichtigsten-unterschiede-in-training-ernahrung-und",
+      "url": "/physique-vs-bodybuilding-die-wichtigsten-unterschiede-in-training-ernahrung-und",
+      "excerpt": "Physique oder Bodybuilding? Die Unterschiede in Training, Ernährung und Wettkampf – plus 5-Minuten-Selbsttest für deine Division.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-23",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/6b537e9863b7089a65727cc8cd244237.webp",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 68,
+      "featured": true
+    },
+    {
       "title": "Top 5 Strategien für mehr Bademoden-Verkäufe 2026",
       "slug": "top-5-bewahrte-strategien-fur-mehr-bademoden-verkaufe-im-jahr-2026",
       "url": "/top-5-bewahrte-strategien-fur-mehr-bademoden-verkaufe-im-jahr-2026",
@@ -16,7 +33,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 67,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Marathon-Laufbekleidung 2026: 5 Schritte zum Kollektionsaufbau",
@@ -402,28 +419,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 49,
-      "featured": false
-    },
-    {
-      "title": "Lululemon Align vs. Wunder Train: Leggings-Vergleich",
-      "slug": "lululemon-align-vs-wunder-train-welche-leggings-passt-zu-deinem-training",
-      "url": "/lululemon-align-vs-wunder-train-welche-leggings-passt-zu-deinem-training",
-      "excerpt": "Align oder Wunder Train? Vergleiche Stoff, Kompression und Passform der Lululemon Leggings und finde die richtige für dein Training.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-28",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/4ac9ee4c-064e-45ef-a7e5-2ab38d1d75d8.png",
-      "tags": [
-        {
-          "slug": "yoga-leggings-kaufen",
-          "name": "Yoga Leggings kaufen"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 48,
       "featured": false
     }
   ]
