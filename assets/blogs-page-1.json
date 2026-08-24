@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Winter-Trainingskleidung 2026: Laufen, Kraft & Rad",
+      "slug": "die-beste-winter-trainingskleidung-2026-fur-laufen-krafttraining-und-radfahren",
+      "url": "/die-beste-winter-trainingskleidung-2026-fur-laufen-krafttraining-und-radfahren",
+      "excerpt": "Getestet bei -5°C: die beste Winter-Trainingskleidung 2026 für Laufen, Krafttraining und Radfahren – mit Marken-Vergleich und Schichten-Formel.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-24",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/6c5f0742-aa57-4071-b941-7c3a44cfee63.png",
+      "tags": [
+        {
+          "slug": "winter-radbekleidung",
+          "name": "Winter Radbekleidung"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 69,
+      "featured": true
+    },
+    {
       "title": "Physique vs. Bodybuilding: Wichtigste Unterschiede im Vergleich",
       "slug": "physique-vs-bodybuilding-die-wichtigsten-unterschiede-in-training-ernahrung-und",
       "url": "/physique-vs-bodybuilding-die-wichtigsten-unterschiede-in-training-ernahrung-und",
@@ -16,7 +38,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 68,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Top 5 Strategien für mehr Bademoden-Verkäufe 2026",
@@ -393,32 +415,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 50,
-      "featured": false
-    },
-    {
-      "title": "Vuori Kore vs. Banks Short: Vergleich für Training & Alltag",
-      "slug": "vuori-kore-vs-banks-short-welcher-ist-besser-fur-training-und-alltag",
-      "url": "/vuori-kore-vs-banks-short-welcher-ist-besser-fur-training-und-alltag",
-      "excerpt": "Vuori Kore vs. Banks Short im Vergleich: Passform, Komfort, Haltbarkeit und Preis – finde heraus, welche Short zu deinem Alltag passt.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-29",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/6f6a97e4-0016-4a6e-bca5-df97ee034426.png",
-      "tags": [
-        {
-          "slug": "vuori-kore-short",
-          "name": "Vuori Kore Short"
-        },
-        {
-          "slug": "vuori-banks-short",
-          "name": "Vuori Banks Short"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 49,
       "featured": false
     }
   ]
