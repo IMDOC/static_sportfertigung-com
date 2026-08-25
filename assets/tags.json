@@ -392,6 +392,46 @@
       "aliases": [
         "winter radbekleidung"
       ]
+    },
+    {
+      "slug": "activewear",
+      "name": "Activewear",
+      "description": "Articles and resources tagged Activewear.",
+      "aliases": [
+        "activewear"
+      ]
+    },
+    {
+      "slug": "sportbekleidung",
+      "name": "Sportbekleidung",
+      "description": "Articles and resources tagged Sportbekleidung.",
+      "aliases": [
+        "sportbekleidung"
+      ]
+    },
+    {
+      "slug": "gym-bekleidung",
+      "name": "Gym-Bekleidung",
+      "description": "Articles and resources tagged Gym-Bekleidung.",
+      "aliases": [
+        "gym-bekleidung"
+      ]
+    },
+    {
+      "slug": "trainingskleidung",
+      "name": "Trainingskleidung",
+      "description": "Articles and resources tagged Trainingskleidung.",
+      "aliases": [
+        "trainingskleidung"
+      ]
+    },
+    {
+      "slug": "kompressionskleidung",
+      "name": "Kompressionskleidung",
+      "description": "Articles and resources tagged Kompressionskleidung.",
+      "aliases": [
+        "kompressionskleidung"
+      ]
     }
   ]
 }
