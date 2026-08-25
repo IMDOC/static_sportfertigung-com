@@ -2,6 +2,44 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Die Vorteile der richtigen Activewear-Bekleidung",
+      "slug": "die-vorteile-der-richtigen-activewear-bekleidung",
+      "url": "/die-vorteile-der-richtigen-activewear-bekleidung",
+      "excerpt": "Warum die richtige Activewear über Trainingserfolg entscheidet – von Feuchtigkeitsableitung bis Passform. So vermeidest du teure Fehlkäufe.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-25",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9deaad189b02aa8289bf8ff42f3cf1b6.webp",
+      "tags": [
+        {
+          "slug": "kompressionskleidung",
+          "name": "Kompressionskleidung"
+        },
+        {
+          "slug": "activewear",
+          "name": "Activewear"
+        },
+        {
+          "slug": "sportbekleidung",
+          "name": "Sportbekleidung"
+        },
+        {
+          "slug": "gym-bekleidung",
+          "name": "Gym-Bekleidung"
+        },
+        {
+          "slug": "trainingskleidung",
+          "name": "Trainingskleidung"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 70,
+      "featured": true
+    },
+    {
       "title": "Winter-Trainingskleidung 2026: Laufen, Kraft & Rad",
       "slug": "die-beste-winter-trainingskleidung-2026-fur-laufen-krafttraining-und-radfahren",
       "url": "/die-beste-winter-trainingskleidung-2026-fur-laufen-krafttraining-und-radfahren",
@@ -21,7 +59,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 69,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Physique vs. Bodybuilding: Wichtigste Unterschiede im Vergleich",
@@ -398,23 +436,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 51,
-      "featured": false
-    },
-    {
-      "title": "Adidas AEROREADY vs HEAT.RDY: Welche Technologie ist besser?",
-      "slug": "adidas-aeroready-vs-heat-rdy-welche-performance-bekleidungstechnologie-ist",
-      "url": "/adidas-aeroready-vs-heat-rdy-welche-performance-bekleidungstechnologie-ist",
-      "excerpt": "AEROREADY vs HEAT.RDY im Vergleich: Stoff, Atmungsaktivität, Passform & Preis. Finden Sie die beste Adidas-Technologie für Ihre Anforderungen.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-30",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/11e7130a49c12637cee6fe53513d0185.webp",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 50,
       "featured": false
     }
   ]
