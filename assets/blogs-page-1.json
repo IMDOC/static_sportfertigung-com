@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "3 Activewear-Teile für einen top Look im Fitnessstudio",
+      "slug": "3-activewear-teile-fur-einen-top-look-im-fitnessstudio",
+      "url": "/3-activewear-teile-fur-einen-top-look-im-fitnessstudio",
+      "excerpt": "3 Activewear-Teile, die im Fitnessstudio wirklich liefern: Nike Dri-FIT Top, Under Armour HeatGear Leggings und mehr für Komfort und Performance.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-26",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/e8eceb0d2c5cb2936d0282e9f81cd411.webp",
+      "tags": [
+        {
+          "slug": "gym-outfit",
+          "name": "Gym Outfit"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 71,
+      "featured": true
+    },
+    {
       "title": "Die Vorteile der richtigen Activewear-Bekleidung",
       "slug": "die-vorteile-der-richtigen-activewear-bekleidung",
       "url": "/die-vorteile-der-richtigen-activewear-bekleidung",
@@ -37,7 +59,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 70,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Winter-Trainingskleidung 2026: Laufen, Kraft & Rad",
@@ -419,23 +441,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 52,
-      "featured": false
-    },
-    {
-      "title": "Under Armour HeatGear vs ColdGear: Der ultimative Vergleich",
-      "slug": "under-armour-heatgear-vs-coldgear-welche-serie-passt-besser-zu-ihren",
-      "url": "/under-armour-heatgear-vs-coldgear-welche-serie-passt-besser-zu-ihren",
-      "excerpt": "HeatGear oder ColdGear? Der ultimative Vergleich zeigt, welche Under Armour Serie je nach Temperatur, Sportart und Training die bessere Wahl ist.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-31",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/e66ebe504a1986af14781ae5e1bd1e61.webp",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 51,
       "featured": false
     }
   ]
