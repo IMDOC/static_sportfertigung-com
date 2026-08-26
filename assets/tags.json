@@ -432,6 +432,14 @@
       "aliases": [
         "kompressionskleidung"
       ]
+    },
+    {
+      "slug": "gym-outfit",
+      "name": "Gym Outfit",
+      "description": "Articles and resources tagged Gym Outfit.",
+      "aliases": [
+        "gym outfit"
+      ]
     }
   ]
 }
