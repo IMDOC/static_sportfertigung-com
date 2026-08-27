@@ -2,6 +2,52 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Swimwear-Trends 2024: 7 heiße Bikini-Styles für den Pool",
+      "slug": "heisse-swimwear-trends-2024-so-machst-du-am-pool-furore",
+      "url": "/heisse-swimwear-trends-2024-so-machst-du-am-pool-furore",
+      "excerpt": "Die 7 wichtigsten Swimwear-Trends 2024: Cut-Outs, Neon, Häkel & mehr. Finde heraus, welcher Bikini-Stil zu dir passt und wo du ihn trägst.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-27",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/5920d9644cadc305fafeec7379beda3f.webp",
+      "tags": [
+        {
+          "slug": "nachhaltige-bademode",
+          "name": "nachhaltige bademode"
+        },
+        {
+          "slug": "swimwear-trends-2024",
+          "name": "swimwear trends 2024"
+        },
+        {
+          "slug": "bikini-trends-2024",
+          "name": "bikini trends 2024"
+        },
+        {
+          "slug": "cut-out-bikini",
+          "name": "cut-out bikini"
+        },
+        {
+          "slug": "neon-swimwear",
+          "name": "neon swimwear"
+        },
+        {
+          "slug": "h-kel-bademode",
+          "name": "häkel bademode"
+        },
+        {
+          "slug": "string-bikini-2024",
+          "name": "string bikini 2024"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 72,
+      "featured": true
+    },
+    {
       "title": "3 Activewear-Teile für einen top Look im Fitnessstudio",
       "slug": "3-activewear-teile-fur-einen-top-look-im-fitnessstudio",
       "url": "/3-activewear-teile-fur-einen-top-look-im-fitnessstudio",
@@ -21,7 +67,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 71,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Die Vorteile der richtigen Activewear-Bekleidung",
@@ -419,28 +465,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 53,
-      "featured": false
-    },
-    {
-      "title": "Alo Airlift vs Airbrush: Was ist der Unterschied?",
-      "slug": "alo-airlift-vs-airbrush-leggings-was-ist-der-unterschied",
-      "url": "/alo-airlift-vs-airbrush-leggings-was-ist-der-unterschied",
-      "excerpt": "Alo Airlift vs Airbrush Leggings im Vergleich: Stoff, Kompression, Passform & Körpertyp – finde heraus, welches Modell zu deinem Training passt.",
-      "author": "Ryan Mitchell",
-      "date": "2026-08-01",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/fa46540109f625de7079b3aee39704aa.webp",
-      "tags": [
-        {
-          "slug": "alo-yoga-activewear",
-          "name": "Alo Yoga Activewear"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 52,
       "featured": false
     }
   ]
