@@ -440,6 +440,62 @@
       "aliases": [
         "gym outfit"
       ]
+    },
+    {
+      "slug": "swimwear-trends-2024",
+      "name": "swimwear trends 2024",
+      "description": "Articles and resources tagged swimwear trends 2024.",
+      "aliases": [
+        "swimwear trends 2024"
+      ]
+    },
+    {
+      "slug": "bikini-trends-2024",
+      "name": "bikini trends 2024",
+      "description": "Articles and resources tagged bikini trends 2024.",
+      "aliases": [
+        "bikini trends 2024"
+      ]
+    },
+    {
+      "slug": "cut-out-bikini",
+      "name": "cut-out bikini",
+      "description": "Articles and resources tagged cut-out bikini.",
+      "aliases": [
+        "cut-out bikini"
+      ]
+    },
+    {
+      "slug": "neon-swimwear",
+      "name": "neon swimwear",
+      "description": "Articles and resources tagged neon swimwear.",
+      "aliases": [
+        "neon swimwear"
+      ]
+    },
+    {
+      "slug": "h-kel-bademode",
+      "name": "häkel bademode",
+      "description": "Articles and resources tagged häkel bademode.",
+      "aliases": [
+        "häkel bademode"
+      ]
+    },
+    {
+      "slug": "string-bikini-2024",
+      "name": "string bikini 2024",
+      "description": "Articles and resources tagged string bikini 2024.",
+      "aliases": [
+        "string bikini 2024"
+      ]
+    },
+    {
+      "slug": "nachhaltige-bademode",
+      "name": "nachhaltige bademode",
+      "description": "Articles and resources tagged nachhaltige bademode.",
+      "aliases": [
+        "nachhaltige bademode"
+      ]
     }
   ]
 }
