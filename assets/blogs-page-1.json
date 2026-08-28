@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Activewear Großhandel: Diese Teile müssen Sie kaufen",
+      "slug": "diese-activewear-teile-mussen-sie-im-grosshandel-kaufen",
+      "url": "/diese-activewear-teile-mussen-sie-im-grosshandel-kaufen",
+      "excerpt": "Welche Activewear-Teile lohnen sich im Großhandel wirklich? Margen, Stofffallen und Nachbestell-Logik für Leggings, Sport-BHs & mehr.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-28",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9b7394a851e621b13adf84424f109fe1.webp",
+      "tags": [
+        {
+          "slug": "sport-bhs-gro-handel",
+          "name": "sport-bhs großhandel"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 73,
+      "featured": true
+    },
+    {
       "title": "Swimwear-Trends 2024: 7 heiße Bikini-Styles für den Pool",
       "slug": "heisse-swimwear-trends-2024-so-machst-du-am-pool-furore",
       "url": "/heisse-swimwear-trends-2024-so-machst-du-am-pool-furore",
@@ -45,7 +67,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 72,
-      "featured": true
+      "featured": false
     },
     {
       "title": "3 Activewear-Teile für einen top Look im Fitnessstudio",
@@ -448,23 +470,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 54,
-      "featured": false
-    },
-    {
-      "title": "5 wichtigste QC-Schritte für Activewear-Marken",
-      "slug": "die-5-wichtigsten-qualitatskontrollschritte-fur-activewear-marken",
-      "url": "/die-5-wichtigsten-qualitatskontrollschritte-fur-activewear-marken",
-      "excerpt": "Erfahren Sie, wie Activewear-Marken mit 5 klaren QC-Schritten Nähte, Farben und Stoffe absichern und teure Retouren sowie 1-Stern-Bewertungen vermeiden.",
-      "author": "Ryan Mitchell",
-      "date": "2026-08-02",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/c30c840e-7a02-4055-abae-12936af65fec.png",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 53,
       "featured": false
     }
   ]
