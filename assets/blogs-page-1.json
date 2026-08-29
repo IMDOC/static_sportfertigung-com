@@ -2,6 +2,32 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Die perfekte Damenhose finden: Body-Shape & Passform",
+      "slug": "die-perfekte-damenhose-finden-body-shape-anlass-passform-check",
+      "url": "/die-perfekte-damenhose-finden-body-shape-anlass-passform-check",
+      "excerpt": "Finde die perfekte Damenhose für deine Körperform und jeden Anlass – mit Passform-Test, Stoff-Tipps und klaren Styling-Regeln.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-29",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/11980e347831a0f1dc6ab772c5d63d3f.webp",
+      "tags": [
+        {
+          "slug": "damenhose-k-rperform",
+          "name": "damenhose körperform"
+        },
+        {
+          "slug": "passform-hose-frauen",
+          "name": "passform hose frauen"
+        }
+      ],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 74,
+      "featured": true
+    },
+    {
       "title": "Activewear Großhandel: Diese Teile müssen Sie kaufen",
       "slug": "diese-activewear-teile-mussen-sie-im-grosshandel-kaufen",
       "url": "/diese-activewear-teile-mussen-sie-im-grosshandel-kaufen",
@@ -21,7 +47,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 73,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Swimwear-Trends 2024: 7 heiße Bikini-Styles für den Pool",
@@ -432,44 +458,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 55,
-      "featured": false
-    },
-    {
-      "title": "So finden Sie die richtige Bademode für Frauen diesen Sommer",
-      "slug": "so-finden-sie-die-richtige-bademode-fur-frauen-diesen-sommer",
-      "url": "/so-finden-sie-die-richtige-bademode-fur-frauen-diesen-sommer",
-      "excerpt": "Finden Sie die perfekte Bademode für Ihre Körperform – Birnen-, Apfel-, Sanduhr-Typ & mehr. Keine Fehlkäufe mehr, klare Empfehlungen für diesen Sommer.",
-      "author": "Ryan Mitchell",
-      "date": "2026-08-03",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/e6e93aad-64b1-430c-9904-c396f931fd79.png",
-      "tags": [
-        {
-          "slug": "bademode-sommer-2026",
-          "name": "bademode sommer 2026"
-        },
-        {
-          "slug": "bademode-f-r-frauen",
-          "name": "bademode für frauen"
-        },
-        {
-          "slug": "bademode-birnenform",
-          "name": "bademode birnenform"
-        },
-        {
-          "slug": "bademode-apfelform",
-          "name": "bademode apfelform"
-        },
-        {
-          "slug": "sanduhrform-bademode",
-          "name": "sanduhrform bademode"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 54,
       "featured": false
     }
   ]
