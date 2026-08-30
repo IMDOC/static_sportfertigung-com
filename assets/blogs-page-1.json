@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Activewear für Frauen: Perfekte Passform für jeden Trainingstag",
+      "slug": "die-richtige-activewear-fur-fitnessverruckte-frauen-perfekte-passform-fur-jeden",
+      "url": "/die-richtige-activewear-fur-fitnessverruckte-frauen-perfekte-passform-fur-jeden",
+      "excerpt": "Die passende Activewear für jeden Trainingstag: Stoffe, Passform und Support für Kraft, Cardio, Yoga und Laufen – plus die 3-Schritte-Methode.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-30",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/b5fcfe49-0910-421a-89ae-662bc9089744.png",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 75,
+      "featured": true
+    },
+    {
       "title": "Die perfekte Damenhose finden: Body-Shape & Passform",
       "slug": "die-perfekte-damenhose-finden-body-shape-anlass-passform-check",
       "url": "/die-perfekte-damenhose-finden-body-shape-anlass-passform-check",
@@ -25,7 +42,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 74,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Activewear Großhandel: Diese Teile müssen Sie kaufen",
@@ -432,32 +449,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 56,
-      "featured": false
-    },
-    {
-      "title": "Trainingskleidung für Frauen: Der ultimative Leitfaden",
-      "slug": "die-richtige-trainingskleidung-fur-frauen-finden-ein-leitfaden",
-      "url": "/die-richtige-trainingskleidung-fur-frauen-finden-ein-leitfaden",
-      "excerpt": "Der ultimative Guide zur richtigen Trainingskleidung für Frauen: Stoffe, Sport-BH-Support und Outfits für jede Trainingsart – praktisch und budgetbewusst.",
-      "author": "Ryan Mitchell",
-      "date": "2026-08-04",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/e8ac1e09-f271-49e1-a48f-2f9d23a8cde3.png",
-      "tags": [
-        {
-          "slug": "sport-bh-support",
-          "name": "sport-bh support"
-        },
-        {
-          "slug": "activewear-stoffe",
-          "name": "activewear stoffe"
-        }
-      ],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 55,
       "featured": false
     }
   ]
