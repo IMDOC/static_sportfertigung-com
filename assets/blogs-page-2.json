@@ -2,6 +2,23 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "Welche Yoga-Kollektion eignet sich für den Markenaufbau?",
+      "slug": "welche-art-von-massgeschneiderter-yoga-bekleidungskollektion-eignet-sich-fur-den",
+      "url": "/welche-art-von-massgeschneiderter-yoga-bekleidungskollektion-eignet-sich-fur-den",
+      "excerpt": "Helden-, Volumen- und Einstiegsartikel: So wählen Sie die richtige maßgeschneiderte Yoga-Kollektion für den Aufbau einer starken Marke.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-06",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9f6165b5f8a3e226dd792d3d1dc137bc.webp",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 57,
+      "featured": false
+    },
+    {
       "title": "Gym Shorts Bestseller-Designs: So wählen Sie richtig aus",
       "slug": "bestseller-designs-fur-ihre-eigene-gym-shorts-kollektion-so-wahlen-sie-richtig",
       "url": "/bestseller-designs-fur-ihre-eigene-gym-shorts-kollektion-so-wahlen-sie-richtig",
@@ -381,23 +398,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 38,
-      "featured": false
-    },
-    {
-      "title": "Activewear-Produktion: Deutschland vs. Übersee – Was passt zu dir?",
-      "slug": "activewear-produktion-in-deutschland-vs-ubersee-was-passt-besser-zu-deiner-marke",
-      "url": "/activewear-produktion-in-deutschland-vs-ubersee-was-passt-besser-zu-deiner-marke",
-      "excerpt": "Deutschland oder Übersee? Wir vergleichen 8 entscheidende Faktoren und helfen dir, die richtige Activewear-Fabrik für deine Markenphase zu wählen.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-16",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/b8ebcee351c0c5ff9d52fcd970b2789f.webp",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 37,
       "featured": false
     }
   ]

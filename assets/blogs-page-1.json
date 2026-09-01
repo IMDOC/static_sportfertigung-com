@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Stylische Leggings für Silvester: Outfit-Ideen für jede Feier",
+      "slug": "stylische-leggings-fur-silvester-outfit-ideen-fur-jede-feier",
+      "url": "/stylische-leggings-fur-silvester-outfit-ideen-fur-jede-feier",
+      "excerpt": "Stylische Leggings-Outfits für jeden Silvester-Anlass – von gemütlichen Familienfeiern bis zur Glitzerparty. Jetzt Looks & Styling-Tipps entdecken.",
+      "author": "Ryan Mitchell",
+      "date": "2026-09-01",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9288560fadeea3876969ab71fc3ac6cd.webp",
+      "tags": [],
+      "readTime": "7 Min. Lesezeit",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Leiter Produktion & Beschaffung",
+      "authorSlug": "ryan-mitchell",
+      "id": 77,
+      "featured": true
+    },
+    {
       "title": "Die 5 größten Vorteile von Sweatpants beim Workout für Männer",
       "slug": "die-5-grossten-vorteile-von-sweatpants-beim-workout-fur-manner",
       "url": "/die-5-grossten-vorteile-von-sweatpants-beim-workout-fur-manner",
@@ -21,7 +38,7 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 76,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Activewear für Frauen: Perfekte Passform für jeden Trainingstag",
@@ -437,23 +454,6 @@
       "authorTitle": "Leiter Produktion & Beschaffung",
       "authorSlug": "ryan-mitchell",
       "id": 58,
-      "featured": false
-    },
-    {
-      "title": "Welche Yoga-Kollektion eignet sich für den Markenaufbau?",
-      "slug": "welche-art-von-massgeschneiderter-yoga-bekleidungskollektion-eignet-sich-fur-den",
-      "url": "/welche-art-von-massgeschneiderter-yoga-bekleidungskollektion-eignet-sich-fur-den",
-      "excerpt": "Helden-, Volumen- und Einstiegsartikel: So wählen Sie die richtige maßgeschneiderte Yoga-Kollektion für den Aufbau einer starken Marke.",
-      "author": "Ryan Mitchell",
-      "date": "2026-08-06",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9f6165b5f8a3e226dd792d3d1dc137bc.webp",
-      "tags": [],
-      "readTime": "7 Min. Lesezeit",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Leiter Produktion & Beschaffung",
-      "authorSlug": "ryan-mitchell",
-      "id": 57,
       "featured": false
     }
   ]
