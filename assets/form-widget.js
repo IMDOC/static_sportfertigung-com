@@ -17,6 +17,8 @@
  *   page     = last path segment minus .html (root -> "index"); or data-page override
  *   page_url = location.href
  * Plus anti-spam: honeypot input name="website" + submission_time on submit.
+ * Submitted as JSON via fetch (form.lianf.com only accepts JSON); all form
+ * fields except domain/page_url/website go into form_data.
  *
  * Global override (optional): window.FormWidgetConfig = { action, brandColor, brandColorDark, ... }
  */
@@ -169,6 +171,13 @@
       '.fw-btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;width:100%;margin-top:16px;padding:13px 22px;border:0;border-radius:8px;background:' + config.brandColor + ';color:#fff;font-family:inherit;font-size:.95rem;font-weight:700;cursor:pointer;transition:background-color .2s ease,transform .2s ease}',
       '.fw-btn:hover{background:' + config.brandColorDark + ';transform:translateY(-1px)}',
       '.fw-hp{display:none !important}',
+      '.fw-btn:disabled{opacity:.65;cursor:wait;transform:none}',
+      '.fw-msg{margin:12px 0 0;padding:10px 14px;border-radius:8px;font-size:.9rem;line-height:1.5}',
+      '.fw-msg[hidden]{display:none}',
+      '.fw-msg--ok{background:rgba(22,163,74,.12);border:1px solid rgba(22,163,74,.35);color:#15803D}',
+      '.fw-msg--err{background:rgba(220,38,38,.10);border:1px solid rgba(220,38,38,.35);color:#B91C1C}',
+      '.fw-section--dark .fw-msg--ok{color:#86EFAC}',
+      '.fw-section--dark .fw-msg--err{color:#FCA5A5}',
       '.fw-side{position:relative;overflow:hidden;border-radius:12px;padding:clamp(20px,2.4vw,28px);display:flex;flex-direction:column;gap:18px}',
       '.fw-side::after{content:"";position:absolute;right:-80px;top:-80px;width:180px;height:180px;border-radius:50%;pointer-events:none}',
       '.fw-side-k{font-size:.72rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:' + config.brandColor + '}',
@@ -299,25 +308,80 @@
 
     container.innerHTML = '';
     container.appendChild(section);
-    bindForm(section.querySelector('form'));
+    bindForm(section.querySelector('form'), lang);
   }
 
-  // anti-spam: timestamp the load, stamp seconds-on-page at submit
-  function bindForm(form) {
+  // submit-status copy (per-key fallback to en, same rule as I18N)
+  var STATUS_I18N = {
+    en: { sending: 'Sending…', success: 'Thank you! Your inquiry has been sent. We will get back to you soon.', error: 'Sorry, your inquiry could not be sent. Please contact us via WhatsApp or email instead.' },
+    es: { sending: 'Enviando…', success: '¡Gracias! Hemos recibido tu consulta y te responderemos pronto.', error: 'No se pudo enviar tu consulta. Por favor, contáctanos por WhatsApp o correo electrónico.' },
+    fr: { sending: 'Envoi…', success: 'Merci ! Votre demande a bien été envoyée. Nous vous répondrons rapidement.', error: "Votre demande n'a pas pu être envoyée. Merci de nous contacter par WhatsApp ou par e-mail." },
+    de: { sending: 'Wird gesendet…', success: 'Vielen Dank! Ihre Anfrage wurde gesendet. Wir melden uns in Kürze.', error: 'Ihre Anfrage konnte nicht gesendet werden. Bitte kontaktieren Sie uns per WhatsApp oder E-Mail.' },
+    pt: { sending: 'Enviando…', success: 'Obrigado! Sua solicitação foi enviada. Responderemos em breve.', error: 'Não foi possível enviar sua solicitação. Por favor, fale conosco pelo WhatsApp ou por e-mail.' },
+    it: { sending: 'Invio in corso…', success: 'Grazie! La tua richiesta è stata inviata. Ti risponderemo a breve.', error: 'Non è stato possibile inviare la richiesta. Contattaci via WhatsApp o e-mail.' },
+    ja: { sending: '送信中…', success: 'お問い合わせを受け付けました。担当者より折り返しご連絡いたします。', error: '送信できませんでした。お手数ですが WhatsApp またはメールでご連絡ください。' },
+    ar: { sending: 'جارٍ الإرسال…', success: 'شكرًا لك! تم إرسال استفسارك وسنتواصل معك قريبًا.', error: 'تعذّر إرسال استفسارك. يُرجى التواصل معنا عبر واتساب أو البريد الإلكتروني.' }
+  };
+
+  // form.lianf.com only accepts JSON: intercept submit, send the whole form
+  // (incl. kk_* fields track.js appends in the capture phase) via fetch.
+  // anti-spam: honeypot "website" -> honeypot, seconds-on-page -> submission_time
+  function bindForm(form, lang) {
     if (!form) return;
     var loadedAt = Date.now();
-    form.addEventListener('submit', function () {
-      var existing = form.querySelector('input[name="submission_time"]');
-      if (!existing) {
-        var s = document.createElement('input');
-        s.type = 'hidden';
-        s.name = 'submission_time';
-        s.value = String(Math.floor((Date.now() - loadedAt) / 1000));
-        form.appendChild(s);
-      }
-      // refresh page_url in case of in-page history changes
-      var pu = form.querySelector('input[name="page_url"]');
-      if (pu) pu.value = location.href;
+    var t = Object.assign({}, STATUS_I18N.en, STATUS_I18N[lang] || {});
+    var btn = form.querySelector('button[type="submit"]');
+    var btnText = btn ? btn.textContent : '';
+    var msg = document.createElement('p');
+    msg.className = 'fw-msg';
+    msg.setAttribute('role', 'status');
+    msg.setAttribute('aria-live', 'polite');
+    msg.hidden = true;
+    form.appendChild(msg);
+    var sending = false;
+
+    function show(text, ok) {
+      msg.textContent = text;
+      msg.className = 'fw-msg ' + (ok ? 'fw-msg--ok' : 'fw-msg--err');
+      msg.hidden = false;
+    }
+
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      if (sending) return;
+      if (form.reportValidity && !form.reportValidity()) return;
+
+      var payload = {
+        domain: location.hostname,
+        form_type: 'inquiry',
+        page_url: location.href,
+        honeypot: '',
+        submission_time: Math.floor((Date.now() - loadedAt) / 1000),
+        form_data: {}
+      };
+      new FormData(form).forEach(function (v, k) {
+        if (k === 'website') payload.honeypot = String(v);
+        else if (k !== 'domain' && k !== 'page_url' && k !== 'submission_time') payload.form_data[k] = String(v);
+      });
+
+      sending = true;
+      msg.hidden = true;
+      if (btn) { btn.disabled = true; btn.textContent = t.sending; }
+      fetch(config.action, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+      })
+        .then(function (r) { return r.json(); })
+        .then(function (res) {
+          if (res && res.success) { form.reset(); show(t.success, true); }
+          else show(t.error, false);
+        })
+        .catch(function () { show(t.error, false); })
+        .then(function () {
+          sending = false;
+          if (btn) { btn.disabled = false; btn.textContent = btnText; }
+        });
     });
   }
 
